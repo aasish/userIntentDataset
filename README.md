@@ -5,4 +5,4 @@
 # License
 
 # Contact
-For any issues or concerns contact: mings@cs.cmu.edu
+For any questions/suggestions contact: mings@cs.cmu.edu
