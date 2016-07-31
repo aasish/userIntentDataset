@@ -26,6 +26,6 @@ In sequence_labeling directory you will find following:
 3. Speech commands (both manual transcripts and Google ASR 1-best hypotheses) at app level to re-enact part of intents in 2 (`R3.csv`).
 
 # License
-
+Creative Commons License 1.0 
 # Contact
 For any questions/suggestions contact: mings@cs.cmu.edu, aasishp@gmail.com
