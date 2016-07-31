@@ -1,0 +1,1089 @@
+1   	com.tencent.mm;com.android.mms;com.tencent.mm	getting friends to gather for karaoke
+2   	com.android.mms;com.google.android.gm;com.android.mms;com.tencent.mm	trying to get up from bed
+3   	com.tencent.mm;com.lge.ime;com.tencent.mm	talk with landlord on wechat
+4   	com.google.android.gm;com.android.chrome;com.google.android.gm	check gmail
+5   	com.android.gallery3d;com.android.providers.downloads.ui;com.android.gallery3d;com.lge.camera	looking for a picture
+6   	com.android.mms;com.tencent.mm	during experiment for android logger
+7   	com.android.calendar;com.google.android.gm;com.android.calendar;com.google.android.gm	check back and forth between gmail notification and google calendar
+8   	com.android.chrome;com.google.android.apps.maps;com.android.mms	using maps to get to upmc urgent care sending text message
+9   	com.google.android.apps.maps;com.android.chrome;com.facebook.katana	trying to locate silky 's ;
+10  	com.android.calendar;com.facebook.orca	checked calendar ;
+11  	com.sec.android.app.popupcalculator;com.android.calendar	used calculator to calculate hours worked in the past month
+12  	com.facebook.orca;com.google.android.youtube	com.facebook.orca com.google.android.youtube : watching a video
+13  	com.sec.android.app.camera;com.facebook.orca	taking and sending a photo
+14  	com.sec.android.app.camera;com.facebook.orca	took a picture of snow shared picture of snow on facebook messenger
+15  	com.android.vending;com.overdrive.mobile.android.mediaconsole	looking for overdrive_mobile application ; listening to audio book
+16  	com.sec.android.app.clockpackage;com.sec.android.app.camera	timing exercise workout ; documenting work out results
+17  	com.android.vending;com.imgur.mobile;com.facebook.orca;com.imgur.mobile	looking for imgur app ; browsing imgur ; sending friends link to imgur picture ; returning to imgur
+18  	com.google.android.gm;com.android.chrome;com.android.calendar;com.softek.ofxclmobile.nasa	updating work schedule ; checking bank account
+19  	com.sec.android.gallery3d;com.sec.android.app.videoplayer;com.sec.android.gallery3d	killing time searching through old photos and videos
+20  	com.facebook.orca;com.android.mms;com.facebook.orca;com.facebook.orca	coordinating about rowing practice
+21  	com.spotify.music;com.sec.android.app.clockpackage;com.spotify.music	setting timer for workout putting workout music on ( winter training playlist on spotify )
+22  	com.venmo;com.android.mms;com.venmo;com.Splitwise.SplitwiseMobile;com.venmo;com.android.mms;com.Splitwise.SplitwiseMobile;com.venmo	receiving payments from housemates for bills via venmo updating balances on splitwise
+23  	com.sec.android.app.camera;com.facebook.katana;com.sec.android.gallery3d;com.sec.android.app.camera;com.facebook.katana	posting photo to facebook
+24  	com.android.contacts;outgoing_call;com.android.incallui;com.facebook.katana;com.facebook.orca	phonecall/facebook message thread with leslie tay
+25  	com.facebook.katana;com.android.mms;outgoing_call;com.android.incallui;com.android.mms;com.android.contacts;outgoing_call;com.android.incallui;com.android.contacts	trying to call leslie tay call kept dropping
+26  	com.android.contacts;com.android.mms	looking up sushma 's phone number sending her a text message
+27  	com.facebook.orca;com.android.vending;com.facebook.orca;com.skype.raider;com.facebook.orca;com.skype.raider	coordinating time for skype call with dmitriy downloading skype skyping
+28  	com.skype.raider;com.facebook.orca;com.skype.raider	initiating/coordinating a second skype call after the first one got dropped
+29  	com.sec.android.gallery3d;com.facebook.katana	uploading photo to facebook
+30  	com.socialnmobile.dictapps.notepad.color.note;com.android.calendar	made a to-do list for the day in notepad checked calendar to see availability for getting everything done
+31  	com.facebook.orca;com.socialnmobile.dictapps.notepad.color.note	messaged friend about finishing a paper outline crossed that item off of to-do list in notepad
+32  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+33  	com.sec.android.app.camera;com.snapchat.android	looking at pictures
+34  	com.android.mms;com.sec.android.app.camera	downloading and viewing a picture brooke sent
+35  	com.android.mms;com.snapchat.android	messaging brooke
+36  	com.sec.android.app.camera;com.android.browser	looking up math problems
+37  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+38  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+39  	com.sec.android.app.camera;com.snapchat.android	picture messaging brooke
+40  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+41  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+42  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spider-man game
+43  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM;com.gameloft.android.ANMP.GloftSIHM;com.gameloft.android.ANMP.GloftSIHM	playing spider-man game
+44  	com.android.browser;com.sec.android.app.popupcalculator;com.android.browser	doing p hysics homework
+45  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+46  	com.android.mms;com.android.browser;com.android.mms	viewing a link brooke sent me
+47  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+48  	com.android.mms;com.snapchat.android	messaging brooke
+49  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+50  	com.google.android.gm;com.facebook.katana	checking emails/messages
+51  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+52  	com.android.mms;com.snapchat.android;com.android.mms	messaging brooke
+53  	com.android.browser;com.android.mms	making weekend plans with brooke
+54  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+55  	com.android.mms;com.snapchat.android;com.android.mms	messaging brooke
+56  	com.snapchat.android;com.android.mms	texting brooke
+57  	com.snapchat.android;com.yik.yak;com.snapchat.android	opening link to yikyak
+58  	com.android.mms;com.snapchat.android;com.android.mms	messaging brooke
+59  	com.android.mms;com.snapchat.android;com.google.android.youtube	texting and snapchatting with steve watching a video recommended by steve .
+60  	com.android.mms;com.google.android.apps.maps	texting friend pang about going to cvs looking up how to get to cvs
+61  	com.snapchat.android;com.android.mms	texting brooke about meeting up
+62  	com.cleanmaster.mguard;com.yodo1.crossyroad	playing crossy road with optimum ram
+63  	com.cleanmaster.mguard;com.yodo1.crossyroad	playing crossy road
+64  	com.android.vending;com.gameloft.android.ANMP.GloftSIHM	updating and playing spiderman
+65  	com.android.browser;com.wolfram.android.alpha;com.android.browser;com.wolfram.android.alpha	using calculus software
+66  	com.android.vending;com.wolfram.android.alpha;com.android.vending	purchasing wolfram alpha on the play store
+67  	com.android.mms;com.snapchat.android	texting brooke
+68  	com.shazam.android;com.shazam.android;com.android.vending;com.shazam.android;com.shazam.android	looking for a song on the play store
+69  	com.android.browser;com.google.android.youtube;com.android.vending;com.clearchannel.iheartradio.controller;com.android.vending	listening to and trying to buy a new song .
+70  	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.browser	reading emails and following links provided in the email
+71  	com.cleanmaster.mguard;com.yodo1.crossyroad;com.cleanmaster.mguard;com.yodo1.crossyroad;com.cleanmaster.mguard;com.cleanmaster.mguard	playing and optimizing ram for crossy road
+72  	com.android.vending;com.yuechuan.freedots	downloading a new game from the app store
+73  	com.android.mms;com.snapchat.android	messaging brooke
+74  	com.android.mms;outgoing_call;com.android.phone;com.android.mms	texting and calling ash
+75  	com.android.mms;com.android.phone;outgoing_call;com.android.mms;com.android.phone	asking brooke if she was free to talk via text then calling her
+76  	com.sec.android.app.clockpackage;com.sec.android.app.popupcalculator;com.fitbit.FitbitMobile	seeing how much time left i had to win a step challenge on the fitbit app
+77  	com.android.contacts;com.fitbit.FitbitMobile;com.android.mms;com.android.contacts;com.android.mms;com.android.contacts;com.android.contacts	talking with my family about the step challenge
+78  	com.android.mms;com.fitbit.FitbitMobile	talking with my family about the step challenge
+79  	com.android.mms;com.android.mms;com.fitbit.FitbitMobile;com.android.mms	talking with my family about the step challenge
+80  	com.android.browser;com.wolfram.android.alpha;com.android.browser	looking up and calculating integrals for calculus
+81  	com.android.mms;com.fitbit.FitbitMobile	talking with my family about the fitbit step challenge
+82  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+83  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+84  	com.snapchat.android;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+85  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+86  	com.android.mms;outgoing_call;com.android.phone;com.android.mms	talking with jj
+87  	com.facebook.katana;com.android.mms;com.facebook.orca	talking with eloy about project
+88  	com.google.android.gm;com.android.mms;com.google.android.gm	creating an email list for a project group
+89  	com.android.mms;com.google.android.gm	talking with project group
+90  	com.android.mms;outgoing_call;com.android.phone;com.android.mms	texting and calling ash
+91  	com.google.android.gm;com.android.mms;com.google.android.gm	talking with project group
+92  	com.android.mms;com.google.android.gm;com.android.mms	messaging project group
+93  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+94  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM;com.facebook.katana;com.gameloft.android.ANMP.GloftSIHM	inviting nerds to spiderman
+95  	com.android.mms;com.snapchat.android	messaging brooke
+96  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing and optimizing spiderman
+97  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM;com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+98  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+99  	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+100 	com.android.mms;com.snapchat.android	messaging friends
+101 	com.google.android.gm;com.android.browser;com.google.android.gm	sharing links with civil engineering group
+102 	com.android.mms;com.google.android.gm;com.android.mms;com.android.browser	conversations with project group
+103 	com.android.mms;com.facebook.orca	talking with group members for project
+104 	com.android.vending;com.raon.aremotefreegalaxy;com.android.vending;com.raon.aremotefreegalaxy;com.android.vending;com.raon.aremotefreegalaxy	downloading and using a projector remote app
+105 	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	playing spiderman
+106 	com.snapchat.android;com.android.mms;com.snapchat.android;com.android.mms;com.android.mms;com.snapchat.android;com.android.phone;com.android.mms	messaging brooke while she was at work
+107 	com.shazam.android;com.google.android.youtube	using shazam to identify a song . then listening to it on youtube . do you wan na dance ? by the beach boys
+108 	com.facebook.katana;com.facebook.orca	messaging eloy on facebook
+109 	com.sec.android.gallery3d;com.android.mms;com.sec.android.gallery3d	sending a picture to brooke
+110 	com.android.mms;com.snapchat.android;com.android.mms	messaging with friends
+111 	com.android.browser;com.sec.android.app.videoplayer	downloading and watching a video
+112 	com.fitbit.FitbitMobile;com.android.mms;com.fitbit.FitbitMobile	looking at my step count and then talking to my family about the step challenge
+113 	com.android.browser;com.android.mms	sharing a link with a friend
+114 	com.android.mms;com.fitbit.FitbitMobile	talking with my family about the step challenge
+115 	com.android.mms;com.android.browser;com.android.mms	looking at a link brooke sent me and then messaging her back
+116 	com.fitbit.FitbitMobile;com.android.mms	looking at my step count then bragging to my family
+117 	cmu.troy.androidlogger;com.google.android.gm;com.android.browser	sending logs
+118 	com.android.mms;com.snapchat.android;com.android.mms	talking with friends
+119 	com.android.mms;com.snapchat.android	checking messages
+120 	com.google.android.gm;com.android.browser;com.google.android.gm	talking and sharing with group mates
+121 	com.yodo1.crossyroad;com.sec.android.app.camera	talking a screenshot of highscore in crossy road
+122 	com.android.browser;com.sec.android.app.camera;com.android.browser	looking at homework questions then looking up answers online
+123 	com.sec.android.app.camera;com.android.browser;com.sec.android.app.camera	looking at homework questions in gallery then checking solutions online
+124 	com.cleanmaster.mguard;com.gameloft.android.ANMP.GloftSIHM	allocating memory for spiderman then playing it
+125 	com.android.mms;com.facebook.katana	discussing project plans with group members
+126 	com.android.mms;com.fitbit.FitbitMobile	talking to brooke about the step challenge
+127 	com.android.browser;com.google.android.apps.docs;com.android.browser;com.infraware.polarisviewer4	downloading a project file from my group 's google drive and viewing it
+128 	com.android.mms;com.snapchat.android	checking messages
+129 	com.android.mms;com.snapchat.android	messaging brooke
+130 	com.android.mms;com.snapchat.android	messaging cody
+131 	com.android.mms;com.fitbit.FitbitMobile	talking about fitbit activity challenge with my family
+132 	com.android.mms;com.snapchat.android;com.android.mms;com.snapchat.android	chatting with friends
+133 	com.google.android.gm;com.android.mms	emailing and texting group members for a project
+134 	com.snapchat.android;com.android.mms;com.google.android.gm	talking with group members about a project
+135 	com.android.browser;com.android.vending;com.android.packageinstaller;com.android.settings;com.android.packageinstaller	downloading a cm launcher app and giving it special permissions in my settings
+136 	com.android.vending;com.katecca.screenofflock;com.android.settings	downloading a lock screen app and giving it special permissions
+137 	com.android.vending;com.airbnb.android;com.google.android.apps.maps;com.airbnb.android;com.airbnb.android;com.android.vending;com.weather.Weather;com.weather.Weather;com.google.android.apps.maps;com.weather.Weather;com.google.android.apps.maps;com.weather.Weather	downloading air bnb and the weather channel then finding places [ monongahela national forest in elkins wv ] [ asheville nc ] [ uwharrie national forest in troy nc ] to travel to using google maps then finding places to stay using airbnb then checking the weather for those places pl
+138 	com.airbnb.android;com.google.android.apps.maps;com.google.android.apps.maps;com.airbnb.android	using airbnb and google maps to find spring break locations [ national forest road 19 wv ] [ shenadoah national forest va }
+139 	com.airbnb.android;com.android.mms;com.android.browser;com.android.chrome;com.android.mms	sharing spring break locations with brooke
+140 	com.android.settings;com.fivehundredpx.viewer	changing my wallpaper
+141 	com.snapchat.android;com.android.mms	talking with brooke
+142 	com.sec.android.gallery3d;com.sec.android.gallery3d;com.sec.android.app.camera;com.sec.android.gallery3d	changing my wallpaper
+143 	com.android.chrome;com.google.android.apps.docs;com.android.chrome;com.google.android.apps.docs;com.android.chrome;com.google.android.apps.docs;com.android.chrome;com.google.android.apps.docs;com.android.chrome;com.google.android.apps.docs	searching for and downloading lesson plans for moneythink
+144 	com.android.mms;com.airbnb.android	sharing more spring break locations with brooke
+145 	com.airbnb.android;com.android.mms;com.android.chrome;com.android.mms;com.snapchat.android;com.android.mms	sharing spring break ideas with brooke
+146 	com.android.mms;com.groupme.android	messaging suren
+147 	com.android.mms;com.groupme.android;com.android.mms;com.groupme.android	messaging brooke
+148 	com.android.mms;com.google.android.youtube;com.android.mms;com.google.android.youtube;com.android.mms;com.android.chrome;com.android.mms;com.android.mms;com.android.chrome	sharing videos and other websites with brooke over text
+149 	com.snapchat.android;com.android.mms	messaging brooke
+150 	com.fivehundredpx.viewer;com.sec.android.gallery3d;com.fivehundredpx.viewer;com.sec.android.gallery3d;com.fivehundredpx.viewer;com.sec.android.gallery3d;com.android.settings	looking at taking screenshots then using pictures from 500px as wallpapers
+151 	com.android.mms;outgoing_call;com.android.phone	calling jj
+152 	com.fivehundredpx.viewer;com.android.chrome	finding an interesting place on 500px then using google to find more information on it
+153 	com.android.chrome;com.google.android.youtube;com.android.chrome;com.google.android.youtube	looking up music videos
+154 	com.android.mms;com.android.phone;outgoing_call	asking brooke if she can talk then calling her
+155 	com.android.chrome;com.google.android.apps.maps	trying to find an address for our campsite at cherry springs
+156 	com.snapchat.android;com.android.mms;com.android.mms	talking with steve
+157 	com.google.android.youtube;com.instagram.android	looking for a certain skateboard video/clip
+158 	com.sec.android.gallery3d;com.sec.android.app.videoplayer;com.sec.android.gallery3d	watching some of my saved videos
+159 	com.snapchat.android;com.android.mms	messaging asher
+160 	com.cleanmaster.mguard;com.ea.game.tetris2011_na	cleaning cache files before playing tetris to boost speed
+161 	com.android.mms;com.snapchat.android	talking with brooke over various mediums of interaction
+162 	com.google.android.gm;com.android.chrome	visiting a link in the email
+163 	com.android.mms;com.snapchat.android	messaging with friends
+164 	com.android.chrome;com.google.android.youtube	finding a video link then opening in youtube
+165 	com.android.chrome;com.facebook.katana;com.google.android.youtube;com.facebook.katana;com.android.mms;com.facebook.katana	watching a youtube video on fb and reposting to someone else 's page
+166 	com.facebook.orca;com.facebook.katana;com.lge.email	i went into my email to give suzy contact information about a website uberzonclub.com
+167 	com.lge.camera;com.facebook.katana;com.android.calendar;com.android.mms;com.facebook.katana	pulling up a photo on camera to post on fb . keep calm and watch the chiefs lose calendar notification of steeler game starting
+168 	com.android.contacts;com.android.mms;com.android.contacts	send a multimedia message to my sister . marci about the steeler game
+169 	com.facebook.katana;com.google.android.youtube;com.facebook.katana;com.android.chrome	posted a happy birthday video to someone 's facebook
+170 	com.android.contacts;com.android.mms;com.android.contacts;com.facebook.katana	mayor bill peduto was on undercover boss . i was posting it on fb and sending text messages and links to people to watch the show .
+171 	com.facebook.katana;com.google.android.youtube;com.facebook.katana	went onto youtube and posted happy birthday video on russ 's timeline
+172 	com.android.gallery3d;com.facebook.katana	selected a photo from gallery of man freezing waiting for port authority bus . then posted it onto my facebook timeline
+173 	com.android.browser;com.facebook.katana	searching tv listings ; checking facebook for tv listings
+174 	com.android.browser;com.android.chrome;com.android.calendar	checking when 'sirens ' would be airing ; marking when 'sirens ' was going to air
+175 	com.android.chrome;com.facebook.katana	checking 'chicago fire ' air times ; posting about 'chicago fire '
+176 	com.android.chrome;com.facebook.katana;com.google.android.youtube;com.facebook.katana;com.google.android.youtube;com.facebook.katana;com.lge.email	sending happy birthday messages to friends on facebook
+177 	com.android.chrome;com.lge.sizechangable.weather	checking weather
+178 	com.google.android.youtube;com.spotify.music	listening to favorites playlist then listening to david cassidy on spotify
+179 	com.android.browser;com.android.browser;com.android.contacts;outgoing_call;com.android.incallui	googled 311 pittsburgh city services but it could n't connect .
+180 	com.lge.camera;com.facebook.katana;com.facebook.katana	took a picture of fireman poster and posted it on facebook
+181 	com.spotify.music;com.spotify.music;com.android.contacts;com.android.mms	sending a favorite song to a friend via text message
+182 	com.buytopia.snap;com.facebook.katana;com.facebook.orca;com.facebook.katana	checking messages and opening a link to buytopia.com
+183 	com.facebook.katana;com.pinterest;com.facebook.katana	checking facebook and clicking a pintrest link
+184 	com.lge.email;com.android.calendar;com.android.chrome	reading the email from ming and responded with scheduling and updated my calender
+185 	com.android.mms;com.android.contacts;com.android.gallery3d;com.facebook.katana	sending multimedia message to my sister marci and pulled photos from facebook gallery
+186 	cmu.troy.androidlogger;com.lge.app.richnote	create a memo for the log
+187 	com.lge.sizechangable.weather;com.android.chrome;com.lge.sizechangable.weather	check weather for going out tomorrow going to chrome for more accurate description
+188 	com.facebook.katana;com.google.android.youtube;com.facebook.katana	checking for birthdays and going to youtube and then posting a birthday on beverly 's facebook
+189 	com.google.android.apps.maps;com.lge.QuickClip;com.lge.app.richnote;com.google.android.apps.maps;com.lge.app.richnote;com.lge.app.richnote;com.lge.app.richnote	googled downtown post office location . pulled up a map and took a screenshot of the location and saved to notes
+190 	com.android.calendar;com.facebook.katana;com.android.mms;com.android.mms	went to facebook and corresponding with marcy about lunch date changed from thursday to friday on calender
+191 	com.lge.email;com.lge.email;com.lge.email;com.lge.email;com.lge.email;com.android.chrome	scanning emails and followed link onto to trivia quiz
+192 	cmu.troy.androidlogger;com.lge.app.richnote;com.lge.shutdownmonitor	sent log to cmu then created memo to track this activity
+193 	com.google.android.apps.plus;com.android.chrome	googling scott wolf in imdb from partty of 5 to see what else he has been associated with
+194 	com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email	checking overnight emails and connecting to links
+195 	com.android.calendar;com.google.android.youtube;com.facebook.katana	checked calandar for birthdays . went to youtube to pick out a birthday message for ashlynn and posted it onto melanie 's fb page
+196 	com.lge.sizechangable.weather;com.android.chrome;com.lge.sizechangable.weather	checking the weather app then linking to the website because their information is invalid on front screen
+197 	com.facebook.katana;com.android.browser;com.facebook.katana;com.facebook.katana;com.lge.email	saw a post in facebook to vote for pgh legends ' hall of fame inductees . followed link to vote put in info then email verification was sent to me along with link to ballot . voted then reposted link on my fb page
+198 	com.android.contacts;com.android.mms	started to send marci a message wondering the exact date that my poofcat died . deleted before sending
+199 	com.android.contacts;com.android.chrome;com.android.contacts;com.android.browser;com.google.android.apps.maps;com.lge.QuickClip;com.lge.app.richnote;com.google.android.apps.maps	googling info on melissa 's house saved image from google copied to a memo double-checked her address in contacts called her
+200 	com.android.contacts;com.android.phone;outgoing_call;com.lge.sizechangable.weather;com.android.chrome;com.lge.sizechangable.weather	checked weather app called duquesne light for current weather checked weather app again ... huge difference
+201 	cmu.troy.androidlogger;com.lge.app.richnote	send the log and create a memo to log tuesday 's activities .
+202 	com.facebook.katana;com.lge.app.richnote;com.facebook.katana	saw penguin on melanie 's facebook screen shot to memo of penguin and post it on susan 's facebook page .
+203 	com.lge.sizechangable.weather;com.android.chrome;com.lge.sizechangable.weather	bouncing back and forth between weather application and accuweather.com
+204 	com.android.mms;com.android.contacts;com.android.mms;com.android.contacts	received a message from marci about a post on facebook . sent her with a cartoon .
+205 	com.android.contacts;com.android.mms;com.android.contacts	texting catt about lunch
+206 	com.android.contacts;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.android.contacts;com.facebook.katana;com.android.contacts;outgoing_call;com.android.incallui	went into contacts michelle 's number was n't there . went into facebook and messenger for her number and added to my contacts . call her from contacts .
+207 	com.lge.sizechangable.weather;com.android.chrome;com.lge.sizechangable.weather	checking the weather and following a link to accuweather.com
+208 	com.google.android.gm;com.android.chrome;com.google.android.gm;com.lge.email;com.yahoo.mobile.client.android.mail;com.facebook.katana	checking updates on various messaging programs
+209 	com.yahoo.mobile.client.android.mail;com.android.chrome;com.yahoo.mobile.client.android.mail	opening up a link to online furniture shopping
+210 	com.android.chrome;com.facebook.katana	i was checking fb updates and reading linked articles
+211 	com.android.calendar;com.jb.gosms	i was checking my messages/status
+212 	com.jbapps.contactpro;outgoing_call;com.android.incallui;com.ubercab;com.android.incallui;com.iobit.mobilecare;com.ubercab	i was calling an uber to go to a meeting
+213 	com.facebook.katana;com.google.android.gm;com.jb.gosms	i was checking my messages
+214 	com.pnc.ecommerce.mobile.vw.android;com.discoverfinancial.mobile	online banking
+215 	flipboard.app;com.android.chrome;flipboard.app	i was reading news
+216 	com.google.android.apps.maps;com.android.chrome	i was checking to make sure i was at the right place in south side
+217 	com.android.chrome;steelersradio.activities	searching stats on the steelers/listening to the steeler game on the radio
+218 	com.android.chrome;steelersradio.activities	steeler game on the radio
+219 	com.yinzcam.nfl.steelers;steelersradio.activities	steeler game on radio . browsing yinz cam app
+220 	com.facebook.katana;com.android.chrome	facebook chat with a friend
+221 	com.facebook.katana;com.android.chrome	facebook chat with a friend
+222 	com.lge.email;com.android.chrome	checking gmail from chrome
+223 	com.lge.email;com.android.chrome	checking my yahoo email
+224 	com.lge.smarttext;com.android.mms	opened accidentally while texting
+225 	com.android.contacts;com.android.mms	texting my dads new number
+226 	com.google.android.gm;com.android.chrome;cmu.troy.androidlogger	checking gmail account
+227 	outgoing_call;com.android.incallui;com.android.mms;com.android.mms	calling my mom
+228 	com.android.vending;com.google.android.apps.maps	downloading google maps app for android
+229 	com.android.chrome;com.facebook.katana	using the facebook chat app
+230 	com.android.mms;com.google.android.apps.maps	getting directions to a friends house
+231 	com.spotify.music;com.pandora.android	app was n't working so i opened up pandora
+232 	com.lge.smarttext;com.android.mms	app opening up accidentally while texting
+233 	com.facebook.katana;com.android.chrome	using facebook chat
+234 	com.lge.smarttext;com.android.chrome	app opens up accidentally sometimes when typing into browser
+235 	com.android.chrome;com.google.android.gm	checking my g-mail account
+236 	com.lge.email;com.android.chrome	checking my yahoo e-mail account
+237 	com.google.android.gms;com.android.chrome	checking my g-mail account
+238 	com.google.android.gm;com.android.chrome	checking my gmail
+239 	com.lge.email;com.android.chrome	checking my yahoo account
+240 	com.android.settings;com.latedroid.juicedefender	trying to save battery
+241 	com.android.chrome;com.google.android.youtube	searching youtube through chrome
+242 	com.lge.clock;com.android.chrome;com.lge.clock;com.android.mms;com.android.chrome;com.lge.clock;com.android.chrome;com.lge.clock;com.google.android.youtube;com.lge.clock;com.google.android.youtube	listening to metal playlist-suicide silence while keeping track of time on work out
+243 	com.lge.clock;com.google.android.youtube	listening to metal playlist-suicide silence while keeping track of time on work out
+244 	com.android.chrome;com.kakao.talk;com.android.calculator2;com.android.chrome;com.android.calculator2;com.kakao.talk	talking with my friend on kakaotalk about our spring break plans and where we should go . checked my pnc account via google chrome to see that i have enough money to go . used calculator to see how much i would have after i pay all my rent and bills .
+245 	com.lge.email;com.infraware.polarisoffice	got an email from a phd student i work with in the lab about a task he has for me . the email came with a pdf file and i opened it with my phone .
+246 	com.vzw.hss.myverizon;com.kakao.talk	my sister told me to pay our phone bill and i opened the verizon app to do so .
+247 	com.kakao.talk;com.android.chrome	i got up at 5:48 and the first thing i did was check my messages . i got one and sent my friend a text . then i checked my schedule on sio to let my friend know when my last class ends
+248 	com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.infraware.polarisoffice;com.lge.app.richnote;com.kakao.talk	talking with my friend via text application about a homework assignment for a class we both take . downloaded the homework document from blackboard and read it . note application used to document when the homework is due .
+249 	com.kakao.talk;com.google.android.apps.maps;com.android.vending;com.kakao.talk	checking to see what the best way to pamela 's diner ( shadyside ) is from cmu campus . talking with my friend via kakaotalk to discuss when to meet to go to lunch .
+250 	com.android.contacts;com.kakao.talk;com.android.contacts;com.kakao.talk;com.android.chrome;com.kakao.talk	checked to see if i still have my friend 's phone number ; synced my contacts with kakaotalk to get my friend on kakaotalk friends list .
+251 	com.android.calculator2;com.android.calculator2;com.android.calculator2;com.android.calculator2;com.kakao.talk;com.venmo	calculated how much i would have after paying rent and having my friend pay her half of the travel expense ; asked my friend when she can pay me back ; request my friend for the money ;
+252 	com.lge.app.richnote;com.google.android.apps.maps;com.lge.app.richnote;com.google.android.apps.maps;com.android.chrome	saw the list of places me and my friend will be going during spring break ; opened google map to see how far the different hotels in las vegas are from each other and how long it takes on foot ; googled to see if there are any lyfts or uber in las vegas ;
+253 	com.google.android.apps.maps;com.android.chrome;com.ubercab;com.lge.app.richnote;com.ubercab;com.android.vending;me.lyft.android	checking the location of our hotel me and my friends will be staying in las vegas ; opened uber to see if there are ubers in las vegas ; downloaded lyft ; checked to see if there are lyfts in las vegas
+254 	com.android.chrome;com.infraware.polarisoffice;com.android.vending;com.fti.ridegenie.passenger	googled public means of transportation in las vegas ; downloaded a document related to public buses in las vegas showing bus routes and times ; downloaded ride genie ; checked ridegenie to see if this app is usable in las vegas
+255 	com.imdb.mobile;com.imdb.mobile;com.imdb.mobile;com.lge.app.richnote;com.imdb.mobile;com.lge.app.richnote;com.imdb.mobile;com.lge.app.richnote;com.imdb.mobile	i was with my friend when we discussed downloading a movie to watch that night . i have a list of movies that i wanted to watch on richnote and was checking it out
+256 	com.android.vending;com.kakao.talk;com.kakao.talk.theme.hellobear;com.kakao.talk	saw list of themes i can download for this app ; downloaded one of the themes via android app market .
+257 	com.android.chrome;com.google.android.gm;com.android.chrome	signed on to a website ( do n't remember which ) and the website sent a confirmation/verification email to my gmail account ; signed into my gmail account to see the email
+258 	com.android.chrome;com.google.android.apps.maps;com.accuweather.android;com.google.android.apps.maps;com.accuweather.android;com.google.android.apps.maps;com.android.chrome	searching for places to go in las vegas with a friend ; checked the walking distance between our hotel and another hotel ; checking the weather in las vegas .
+259 	com.lge.email;com.lge.email;com.android.chrome	checking email about a package ; tracking package
+260 	com.android.chrome;com.android.gallery3d	shopping online ; checking screen shot of purchase
+261 	com.android.settings;com.lge.music	turning on bluetooth speaker ; turning on shuffle playlist
+262 	jp.co.johospace.jorte;jp.co.johospace.jorte;com.lge.email	listing things to do over spring break in calender ; checking travel ticket for spring break
+263 	com.android.settings;com.lge.music	connecting phone to blue tooth ; shuffle music
+264 	com.kakao.talk;jp.co.johospace.jorte	texting with friend about homework ; recording homework in calender
+265 	com.kakao.talk;com.android.gallery3d	sending a photo via text ; looking at the photo
+266 	com.kakao.talk;com.android.gallery3d	receiving a photo via text ; opening the photo
+267 	com.kakao.talk;jp.co.johospace.jorte;com.kakao.talk	texting about homework ; marking off the homework from list ;
+268 	com.lge.email;com.android.chrome;com.kakao.talk;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.kakao.talk	checked email from expedia about a reservation i made
+269 	com.android.gallery3d;com.kakao.talk	checked the screenshot of an email
+270 	com.android.chrome;com.android.vending	logged on to facebook to chat
+271 	com.android.gallery3d;com.lge.camera;com.android.gallery3d	checked a photo i took of a software in my lab
+272 	com.lge.email;com.android.chrome	got a new email and checked it
+273 	com.android.chrome;com.lge.music;com.lge.music	my friend went on to grooveshark.com to play music
+274 	com.lge.camera;com.android.gallery3d	my friend took a selfie
+275 	com.lge.music;com.android.chrome	changed music
+276 	com.lge.music;com.google.android.youtube;com.google.android.youtube	turned on music
+277 	com.lge.email;com.kakao.talk;com.kakao.talk	checked email from my instructor
+278 	com.android.gallery3d;com.kakao.talk	opened photo album to send to my sister
+279 	com.android.mms;com.kakao.talk;com.android.mms	got a text from a friend about an exam
+280 	com.android.chrome;com.lge.music	searched for music on grooveshark.com
+281 	com.venmo;com.kakao.talk	checked the money sent from my friend via venmo
+282 	com.android.chrome;com.venmo	went on to expedia.com to see flight details
+283 	com.android.chrome;com.android.calculator2;com.android.chrome	checked grades on cmu blackboard
+284 	com.android.chrome;com.android.gallery3d;com.kakao.talk	logged on to expedia.com
+285 	com.lge.camera;com.android.gallery3d;com.kakao.talk	took a photo of my photo just taken
+286 	com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk	looked up restaurants in las vegas
+287 	com.android.settings;com.lge.music	connected to bluetooth speaker
+288 	com.android.chrome;jp.co.johospace.jorte	checked store hours of ross park mall
+289 	com.android.gallery3d;com.kakao.talk;com.kakao.talk;com.kakao.talk	choose file to send a friend
+290 	com.android.chrome;jp.co.johospace.jorte	search a movie
+291 	com.android.chrome;com.lge.email;com.android.chrome	more shopping online
+292 	com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.kakao.talk	search for restaurants in pittsburgh
+293 	com.android.incallui;com.kakao.talk	call from a friend
+294 	com.venmo;com.android.chrome	venmoed money to a friend
+295 	com.lge.email;com.android.chrome;com.lge.email	email from amazon.com
+296 	com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.lge.email;com.android.chrome	tracked a package via ups.com
+297 	com.android.incallui;com.android.contacts;com.android.chrome	call from an unknown number
+298 	com.android.incallui;com.android.mms;com.android.mms	call from food delivery person
+299 	com.kakao.talk;com.android.gallery3d	received photos via text checked the photos
+300 	com.android.chrome;com.android.calculator2;com.android.chrome;com.android.chrome;com.android.chrome	look at homework on blackboard use calculator for some problems
+301 	com.android.chrome;com.android.chrome;com.infraware.polarisoffice;com.android.chrome;com.android.chrome;com.infraware.polarisoffice;com.android.chrome;com.infraware.polarisoffice;com.infraware.polarisoffice	check homework due tomorrow download work files of other people 's work
+302 	com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome;com.android.chrome;com.android.chrome;com.android.chrome	read the email from customer service ( asos )
+303 	com.android.incallui;com.android.chrome	call from an unknown number and looked up the number on google .
+304 	com.android.mms;com.lge.email;com.android.chrome	text from a ph.d student i work with and read the email he sent and googled more information on the papers he sent via email
+305 	com.lge.email;com.android.chrome;com.lge.email;com.android.chrome	checked john 's email again
+306 	com.lge.email;com.android.chrome;com.lge.email;com.lge.email;com.android.chrome;com.lge.email;com.lge.email;com.android.chrome;com.lge.email;com.android.chrome	got an email with papers attached that needed to be read by tomorrow
+307 	com.lge.email;jp.co.johospace.jorte	read the email about the location of the meeting and checked off from the list
+308 	com.android.chrome;com.lge.email;com.android.chrome;com.android.chrome;com.lge.email;com.android.chrome;com.android.chrome	check today 's homework on blackboard and read info about the homework in email
+309 	com.linecorp.b612.android;com.android.gallery3d	test the new camera app and checked the photo
+310 	com.lge.email;com.android.chrome;com.google.android.apps.maps;com.android.gallery3d	read reservation email for a restaurant
+311 	com.android.calculator2;com.vzw.hss.myverizon;com.android.calculator2;com.kakao.talk	paid phone bill and calculated remaining balance and sent message about it to mom
+312 	com.kakao.talk;com.google.android.youtube;com.lge.music;com.android.chrome	got a text from a friend about a music video and looked up the music video and searched the music on my phone and searched it on google
+313 	jp.co.johospace.jorte;com.android.chrome	checked for homeworks and blackboard cmu to check the homework
+314 	com.android.gallery3d;com.kakao.talk	find a photo of myself to send and sent to dad
+315 	com.android.chrome;com.kakao.talk	blackboard cmu
+316 	com.android.incallui;com.android.chrome;com.android.contacts;com.android.chrome	missed call from unknown number
+317 	com.lge.email;com.lge.email;com.android.chrome;com.android.chrome;com.android.chrome	order confirmation received
+318 	com.lge.camera;com.android.gallery3d	take photo of a instrumentation set up
+319 	com.android.chrome;com.lge.email	check grades on blackboard send email about the grades
+320 	com.lge.music;com.android.chrome	turn on music ( shuffle ) and change music and use grooveshark.com to find music
+321 	com.kakao.talk;com.android.chrome;com.kakao.talk;jp.co.johospace.jorte;com.kakao.talk;com.kakao.talk;com.lge.email	talk about restaurants and make reservation online for a restaurant and note the reservation in calendar and read confirmation email from the restaurant and play shuffle
+322 	com.android.vending;com.weplaydots.twodotsandroid	download the game 'two dots ' ; play the game
+323 	com.kakao.talk;com.android.chrome	receive text friend about music ; look up on google
+324 	com.kakao.talk;com.android.gallery3d	receive a video from friend ; download the video and played it
+325 	com.android.mms;com.kakao.talk;com.android.settings;com.vzw.hss.myverizon	text message from verizon about data usage ; check on myverizon app ; texted my sister about it
+326 	jp.co.johospace.jorte;com.android.chrome;com.android.chrome;com.android.chrome	email from amazon about shipping status ; track with the tracking number on ups.com
+327 	com.lge.email;jp.co.johospace.jorte	email about package pickup ; make note to pick up package
+328 	jp.co.johospace.jorte;com.android.calculator2	check my payday on calendar
+329 	com.android.chrome;com.venmo	check how much i spent at giant eagle via pnc online and charge my friend for her half
+330 	com.whatsapp;com.whatsapp;com.viber.voip	project deadline in the morning
+331 	com.skype.raider;com.android.contacts;com.skype.raider;com.android.contacts;com.skype.raider;com.android.contacts;com.skype.raider;com.android.phone	calling home
+332 	com.android.vending;com.android.settings	updating apps on google play
+333 	com.google.android.gm;com.android.browser;com.google.android.gm	checking and sending email
+334 	com.tinyrebel.doctorwholegacy;com.android.browser;com.tinyrebel.doctorwholegacy	playing doctor who legacy
+335 	com.android.vending;com.android.settings;com.facebook.katana	updating facebook
+336 	com.google.android.gm;com.android.browser;com.android.calendar;com.android.browser;com.google.android.gm;cmu.troy.androidlogger	sending logs and scheduling an event reminder
+337 	com.android.vending;com.android.settings	updating google play apps
+338 	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.browser;com.android.calendar	chec king an email about scheduling for annotation ; checking doodle link from email ; responding to doodle me ssage ; putting date for annotation in cal ender
+339 	com.android.mms;com.android.contacts	contacting person about movie ; adding person to contact
+340 	com.android.vending;com.sega.sonicjumpfever;com.igg.castleclash	updating and checking apps
+341 	com.tinyrebel.doctorwholegacy;com.android.browser	playing doctor who legacy
+342 	com.android.vending;com.android.settings;com.android.vending	updating apps
+343 	com.android.mms;com.android.contacts	texting george degen
+344 	com.android.vending;com.android.settings	updating apps .
+345 	com.android.mms;com.android.contacts;com.skype.raider	ordering pizza
+346 	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.calendar;com.google.android.gm	scheduling next session for this study
+347 	com.android.contacts;com.android.mms	texting betty about homework .
+348 	com.android.vending;com.android.settings	updating apps
+349 	com.google.android.gm;com.android.browser;com.google.android.gm	signing up for log session
+350 	com.android.mms;com.android.contacts	getting homework from friend
+351 	com.android.mms;com.android.contacts;com.android.mms	texting dad
+352 	com.android.mms;com.google.android.gms;com.mapquest.android.ace;com.android.mms;com.mapquest.android.ace;com.android.mms;com.mapquest.android.ace;com.android.mms;com.mapquest.android.ace	driving to the address received on the message for meeting with jon
+353 	bbc.mobile.news.ww;com.yahoo.mobile.client.android.yahoo;com.yahoo.mobile.client.android.yahoo;com.yahoo.mobile.client.android.yahoo;com.yahoo.mobile.client.android.yahoo;bbc.mobile.news.ww;bbc.mobile.news.ww	checking news
+354 	com.whatsapp;com.android.email;com.google.android.gm;com.android.chrome;com.google.android.gm;com.facebook.katana	checking notifications
+355 	com.hungama.myplay.activity;com.saavn.android;com.hungama.myplay.activity	finding indian music
+356 	com.android.email;com.android.email;com.android.chrome	clicked a link from email
+357 	com.google.android.gm;com.google.android.gm;com.android.chrome	clicked link from gmail
+358 	com.android.email;com.android.chrome	clicked link from email
+359 	cmu.troy.androidlogger;cmu.troy.androidlogger;com.google.android.gm;cmu.troy.androidlogger	sending the logs
+360 	com.android.settings;com.sec.tetheringprovision;com.android.settings	setting up tethering fo r ipad in preparation for research appointment
+361 	com.android.contacts;com.android.email;com.android.contacts;com.sec.android.app.voicenote	closing old applications to get to voicenote to record music at jam session
+362 	com.android.mms;com.android.email	com.android.mms com.android.email
+363 	com.android.email;com.android.mms	checked email and messages for incoming message
+364 	com.vlingo.midas;com.google.android.apps.maps	navigating to the pittsburgh public market
+365 	com.vlingo.midas;com.sec.android.app.voicenote	making note to remember a song
+366 	com.android.mms;com.android.contacts	message to zach for evening meeting plans
+367 	com.vlingo.midas;com.sec.android.app.clockpackage;com.vlingo.midas	open and set the alarm
+368 	com.vlingo.midas;com.google.android.apps.maps	used voice app to navigate to jane 's house
+369 	com.vlingo.midas;com.google.android.apps.maps	used voice app to navigate to hambones restaurant in laurenceville .
+370 	com.android.contacts;com.android.email;com.android.incallui;com.android.email	received a phone call from a study participant at work
+371 	com.sec.android.widgetapp.ap.hero.accuweather;com.android.chrome	checking the current weather
+372 	com.android.mms;com.google.android.apps.maps;com.android.mms;com.google.android.apps.maps;com.android.mms;com.google.android.apps.maps	received text message with address i would be going to later entered it into the map to be ready . address 37070 bainbridge road solon ohio
+373 	com.android.contacts;com.vlingo.midas;com.google.android.apps.maps;com.vlingo.midas;com.google.android.apps.maps	used voice app to have google maps navigate to home . it did n't recognize home so i had to provide address : 5848 aylesboro avenue pittsburgh pa
+374 	com.vlingo.midas;outgoing_call;com.vlingo.midas;com.android.contacts;outgoing_call;com.android.incallui;com.android.settings;com.android.contacts	used voice app to phone shelley .
+375 	com.google.android.apps.maps;com.vlingo.midas;com.google.android.apps.maps	returning screen to mapping after phone call
+376 	com.sec.android.app.music;com.android.chrome;com.spotify.music	trying to find music on my phone since i forgot my computer for the dance break . downloaded spotify but could n't find any traditional music .
+377 	outgoing_call;call_begin;com.vlingo.midas	used voice app on samsung to phone tim nedimeyer
+378 	com.android.email;com.android.contacts;com.android.email;com.android.contacts;outgoing_call;com.android.incallui	checked email solomon had not emailed back yet about drums so i phoned him to find out what was happening
+379 	com.vlingo.midas;outgoing_call;com.android.incallui	using voice app to phone yulian
+380 	com.vlingo.midas;outgoing_call;call_begin;com.android.phone;com.vlingo.midas	using voice app to phone center for integrative medicine in shadyside
+381 	com.android.email;com.android.mms;com.android.email	received text from joe to avoid highways heading home . also checked email . catching up on contacts after phone was unavailable .
+382 	com.whatsapp;com.google.android.gm;com.zynga.wwf2.free;com.facebook.katana	checking notifications after waking up
+383 	com.whatsapp;com.android.gallery3d;com.whatsapp;com.whatsapp	i was sending a picture to a friend on whatsapp
+384 	com.tumblr;com.whatsapp	searching a whatapp conversation for the password to the tumblr account my friend had given me
+385 	com.facebook.katana;com.android.chrome	clicking link on facebook
+386 	com.facebook.katana;com.google.android.youtube	clicking link on facebook
+387 	com.whatsapp;com.android.gallery3d	sending a pi cture to a friend on whatsapp
+388 	com.facebook.katana;com.android.chrome;com.facebook.katana	checking facebook clicking a link from the facebook news feed
+389 	com.google.android.apps.maps;com.android.chrome	searching for the shadyside aaa location to get my registration done ( maps search etc )
+390 	com.android.gallery3d;com.android.mms	receiving and saving a picture of the work schedule a co-worker sent me
+391 	com.facebook.orca;com.google.android.apps.maps	messaging friends about lunch plans ; checking a friends address
+392 	com.facebook.katana;com.android.chrome	opening a facebook link
+393 	com.facebook.katana;com.android.chrome	opening a facebook link
+394 	com.facebook.katana;com.android.chrome;com.facebook.katana	clicking a link from facebook
+395 	com.facebook.katana;com.android.chrome	checking a link from facebook
+396 	com.facebook.katana;com.android.chrome;com.facebook.katana	link from facebook
+397 	com.android.gallery3d;com.poshmark.app	taking a picture of dress and posting on clothes selling website
+398 	com.yahoo.mobile.client.android.im;com.facebook.katana;com.zynga.wwf2.free	responding to notifications in the morning
+399 	com.facebook.katana;com.android.chrome	checking facebook following a link on facebook
+400 	com.android.gallery3d;com.poshmark.app	taking a picture of an item to list on clothes selling website
+401 	com.google.android.gm;com.android.chrome	receiving email about smartphone study sessions going to doodle poll
+402 	com.whatsapp;com.android.deskclock	deciding on next day call date with friend setting alarm so i wo n't forget
+403 	com.android.dialer;com.android.deskclock;com.android.dialer	opened dialer page to call jenny receive alarm reminding me to call jenny dismiss alarm receive call from jenny
+404 	com.whatsapp;com.android.gallery3d	choosing picture and sending it to friend
+405 	com.poshmark.app;com.whatsapp	finalizing sale telling friend about it
+406 	com.android.chrome;com.facebook.katana	clicking and reading link off of facebook
+407 	com.android.deskclock;com.jrdcom.weather	responding to alarm and checking weather before work
+408 	com.android.dialer;outgoing_call;com.android.mms;com.android.dialer;outgoing_call;com.android.mms	calling jamie to ask a question and messaging her to respond when possible and calling ashley to ask question in jamie 's absence
+409 	com.google.android.gm;com.android.gallery3d;com.google.android.gm;com.android.documentsui;com.google.android.apps.docs	downloading picture that i emailed to myself and attempting to open in on my phone as a photo or document so that i could send it with whatsapp
+410 	com.google.android.gm;com.android.documentsui;com.android.gallery3d;com.google.android.gm;com.android.gallery3d;com.whatsapp;com.whatsapp	again attempting to download the picture properly and then sending it to another friend to show it off
+411 	com.whatsapp;com.android.dialer;com.whatsapp	received call back from jenny and a whatapp message saying we 'd talk later
+412 	com.android.gallery3d;com.facebook.katana	taking and posting a picture to facebook
+413 	com.android.deskclock;com.android.gallery3d	responding to alarm and checking schedule in the am before work
+414 	com.google.android.youtube;com.whatsapp	found music video to send to friend on whatsapp
+415 	com.android.deskclock;com.android.gallery3d;com.android.deskclock;com.android.gallery3d;com.android.deskclock;com.android.gallery3d;com.android.deskclock;com.android.deskclock;com.jrdcom.weather	responding to alarm clock and checking weather and schedule before work
+416 	com.whatsapp;com.google.android.talk	messaging harshit and decided to talk over google hangouts and received call from them
+417 	com.android.deskclock;com.jrdcom.weather	snoozing alarm and checking the day 's weather
+418 	com.whatsapp;com.android.dialer;outgoing_call	messaging jenny on whatsapp and agreeing to talk on the phone and calling her
+419 	com.whatsapp;com.android.dialer;com.whatsapp;com.android.dialer	reconnecting the call with jenny after accidental hang-up
+420 	com.whatsapp;com.android.dialer;outgoing_call	reconnecting the call with jenny after connectivity issues
+421 	com.android.dialer;com.android.phone;com.android.dialer;com.tmobile.vvm.application;com.google.android.talk	received call from upenn english department and missed it so listened to voice mail and called harshit to tell him the news
+422 	com.android.mms;com.android.dialer;outgoing_call	texted boss to be late for work because of news and called my mom to tell her news
+423 	com.whatsapp;com.google.android.talk	discussing/agreeing to talk with harshit and calling him via hangouts
+424 	com.whatsapp;com.google.android.talk	discussing connectivity problems/recalling harshit
+425 	com.google.android.gm;com.android.dialer;outgoing_call	received reminder email about calling admissions person at ucsd and retrieved the number from a previous email and called the english dept office at ucsd
+426 	com.google.android.gm;com.facebook.katana	received exciting email and posted on facebook about it
+427 	com.whatsapp;com.android.dialer;outgoing_call	discussed/agreed on calling jenny and called jenny
+428 	com.android.deskclock;com.facebook.katana;com.android.deskclock;com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.deskclock;com.facebook.katana;com.android.deskclock	silencing alarm clock and checking morning notifications
+429 	com.whatsapp;com.google.android.talk	conversing with harshit and deciding to talk over hangouts and receiving a call from him
+430 	com.android.deskclock;com.whatsapp;com.google.android.gm	checking notifications after waking up
+431 	com.android.gallery3d;com.facebook.katana	putting up new cover photo on facebook
+432 	com.google.android.talk;com.android.dialer	received call from google calling service from harshit and did not answer so received call through hangouts also from harshit
+433 	com.whatsapp;com.google.android.talk	deciding to talk on the phone with harshit and calling him
+434 	com.whatsapp;com.poshmark.app;com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.deskclock	checking notifications after waking up
+435 	com.facebook.katana;com.android.chrome	clicking a link on facebook
+436 	com.google.android.gm;com.whatsapp	responding to notifications in the morning
+437 	com.google.android.gm;com.android.chrome	receiving an email about smartphone study and clicking the link to the doodle poll
+438 	com.android.deskclock;com.whatsapp;com.facebook.katana;com.whatsapp;com.facebook.katana;com.whatsapp;com.facebook.katana;com.facebook.katana;com.whatsapp;com.android.deskclock;com.whatsapp;com.facebook.katana;com.google.android.apps.maps	snoozing alarm and checking notifications and searching directions from latham hotel to university of p pennsylvania for time frame
+439 	com.android.gallery3d;com.facebook.katana	choosing a picture and posting to facebook
+440 	com.android.deskclock;com.android.mms;com.facebook.katana;com.google.android.gm;com.facebook.katana	snoozing alarm and checking notifications
+441 	com.google.android.gm;com.android.documentsui;com.adobe.reader;com.google.android.gm;com.android.documentsui;com.adobe.reader;com.android.documentsui;com.adobe.reader;com.google.android.gm;com.google.android.gm	trying to send three documents downloaded from emails to kinkos printandgo email and checking very slow email to get the mm so i could print
+442 	com.ubercab;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im;com.yahoo.mobile.client.android.im	checking fare estimate of uber from train station to home and discussing getting picked up instead with a friend
+443 	com.android.deskclock;com.facebook.katana;com.facebook.katana;com.android.deskclock;com.facebook.katana;com.android.deskclock	snoozing alarm and checking notifications
+444 	com.android.gallery3d;com.whatsapp	choosing a picture to send on whatsapp
+445 	com.whatsapp;com.android.dialer;com.whatsapp;com.android.dialer	communicated with harshit about calling and received a call from him
+446 	com.android.deskclock;com.jrdcom.weather;com.google.android.gm;com.facebook.katana;com.android.deskclock	snoozing alarm and checking notifications for the day
+447 	com.facebook.orca;com.android.mms;com.android.mms;com.android.mms	received facebook message from friend asking if she had texted me to the correct number so i messaged her from the correct number
+448 	com.android.gallery3d;com.android.mms	chose a picture to send to a friend
+449 	com.facebook.katana;com.android.chrome	checking facebook and opening a link
+450 	com.google.android.apps.maps;com.android.mms	google maps to see what bus to take from doctor and texted coworker to tell of return from doctor
+451 	com.android.vending;com.google.android.apps.docs	tried to download google drive found was already on phone so opened a spreadsheet .
+452 	com.sec.android.app.camera;com.android.mms;com.facebook.katana	took picture of cat ; texted picture of cat to krista ; uploaded picture of cat to facebook
+453 	com.android.phone;com.android.mms;com.android.contacts;com.android.mms	missed phone call from kelly ; received text from kelly ; texted kelly
+454 	com.android.mms;com.google.android.youtube;com.android.mms	shared link with krista
+455 	com.sec.android.app.camera;com.android.mms	took picture of cat and texted it to chris
+456 	com.android.mms;com.sec.android.gallery3d	sending picture of cat to chris
+457 	com.sec.android.app.camera;com.android.mms	took a picture of new toaster and texted to chris
+458 	com.sec.android.app.camera;com.android.mms	took picture of my dog and texted to krista
+459 	com.zynga.wwf2.free;com.android.chrome;com.zynga.wwf2.free	played words with friends and looking up words
+460 	com.android.phone;me.lyft.android;com.android.mms;me.lyft.android	call from lyft driver for directions lyft app to check progress received text from lyft that driver arrived ; used lyft app to tip driver at destination ( home )
+461 	com.etermax.preguntados.lite;com.android.vending;com.etermax.preguntados.lite	played trivia crack ; trivia crack opened google play which i closed ; continued to play trivia crack
+462 	com.sec.android.app.camera;com.android.mms	took picture of dog texted picture to krista
+463 	com.sec.android.gallery3d;com.android.mms	texted picture from gallery to chris
+464 	com.sec.android.app.camera;com.android.mms;com.sec.android.app.camera;com.android.mms;com.sec.android.app.camera	took pictures of cat and texted to krista twice
+465 	com.netflix.mediaclient;com.android.mms;com.netflix.mediaclient;com.android.mms;com.netflix.mediaclient	watched melrose place using netflix app and chromecast to my tv ; texted krista while watching
+466 	com.facebook.orca;com.facebook.katana	responded to facebook message while browsing facebook
+467 	me.lyft.android;com.google.android.gm;com.ridecharge.android.taximagic	viewed lyft app to check cost checked lyft webpage opened taximagic ( yellow cab ) to compare
+468 	com.android.mms;com.android.chrome	received link from kelly in text clicked link to tumblr post .
+469 	com.imdb.mobile;com.android.mms	looked up movie on imdb ; texted finding to krista
+470 	com.sec.android.gallery3d;com.android.mms	selected picture from gallery texted to krista
+471 	com.android.contacts;com.android.mms	opened contacts ; texted krista and kelly
+472 	com.android.vending;com.hulu.plus	downloaded hulu app from play store
+473 	com.buytopia.snap;com.sec.android.app.popupcalculator	shopping list groupon snap ( grocery deal app ) and calculator
+474 	edu.apollogrp.android.classroom.activity;com.picsel.tgv.app.smartoffice	classroom for ppu word doc for ppu
+475 	com.infoscout.receipthog;com.buytopia.snap	rewards app
+476 	com.android.contacts;outgoing_call;com.android.mms;com.android.mms;outgoing_call	text call friend to make lunch plan s after church
+477 	com.ijinshan.kwifi;com.appredeem.apptrailers	searches for the wifi connectivity ; kids watched trailers on the app
+478 	flipboard.app;com.adobe.reader	news opens in pdf form from flipboard
+479 	com.android.mms;com.android.contacts	texting teacher for the kids
+480 	com.android.contacts;outgoing_call;com.android.incallui;com.android.mms;com.android.mms	calling and texting ray about dinner
+481 	com.android.chrome;com.ubercab;com.thetransitapp.droid;com.ubercab	checking bus times found out that the bus had broken down called an uber cab
+482 	com.google.android.GoogleCamera;com.infoscout.receipthog	taking a picture of a receipt for the receipthog rewards program
+483 	com.android.mms;com.facebook.katana;com.android.mms;com.facebook.katana	going back and forth between messages and facebook to coordinate picking up the kids
+484 	com.whatsapp;com.ad.android.ridesystems.ridetraq;com.whatsapp	roommate was asking me when i will go back home . checked cmu shuttle .
+485 	com.google.android.deskclock;com.facebook.katana	wake up and check facebook
+486 	com.android.chrome;com.android.contacts;com.android.mms;incoming.call;com.android.dialer;call_begin;com.android.mms;com.android.chrome	passing the time on a long bus ride . riding the beaver county transit bus for about 90 minutes to beaver county .
+487 	com.google.android.apps.maps;com.android.mms;com.android.chrome;com.android.mms;com.android.chrome	passing time on the bus ride
+488 	com.google.android.gm;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.google.android.gm;com.facebook.katana;com.google.android.gm;com.android.chrome	passing time on the bus ride
+489 	com.google.android.gm;com.android.chrome;com.android.mms;com.google.android.gm;com.android.chrome	passing time on the bus
+490 	com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome;com.google.android.gm;com.google.android.apps.maps;com.google.android.gm;com.android.chrome	passing time on the bus ride
+491 	com.facebook.katana;com.google.android.gm;com.android.chrome	passing time on the bus ride
+492 	com.facebook.katana;com.google.android.gm;com.facebook.katana;com.android.chrome	passing time during grad speech
+493 	com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.chrome	passing time during graduation
+494 	com.motorola.MotGallery2;com.android.chrome;com.google.android.gm;com.facebook.katana	passing time during graduation
+495 	com.android.chrome;com.facebook.katana;com.android.chrome	passing time during graduation
+496 	com.facebook.katana;com.android.chrome	passing time during graduation
+497 	com.google.android.gm;com.facebook.katana;com.android.chrome	passing time during graduation
+498 	com.google.android.gm;com.android.calendar	at dinner with family checking calendar for availability for event at non profit organization that we volunteer at
+499 	com.facebook.katana;com.google.android.gm;com.android.chrome;com.android.dialer;com.android.chrome	passing time while wife was shopping then called her to see how long it would be
+500 	com.android.mms;com.google.android.gm;com.facebook.katana	checking facebook and email while waiting for food to arrive at tamarind 's in oakland
+501 	com.android.chrome;com.facebook.katana	checking facebook
+502 	com.android.chrome;com.google.android.youtube	googled how to reset car oil change indicator watched youtube instructional video that was in results
+503 	com.google.android.apps.maps;com.android.dialer;outgoing_call	using maps to look up a work-related phone number for a business and then call
+504 	com.facebook.katana;com.android.chrome;com.facebook.katana	browsing facebook and using external link from facebook to open chrome
+505 	com.android.contacts;com.android.mms	texting wife from speed dial interface
+506 	com.android.chrome;com.google.android.apps.maps	googling bellevue christian church for phone number then decided to use maps to do so
+507 	com.redbox.android.activity;com.android.chrome;com.redbox.android.activity;com.google.android.gm;com.android.chrome	looking for a movie to watch that night using chrome for reviews and gmail to see if i had any coupon codes
+508 	com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps	looking up phone numbers on google maps ( work-related ca n't disclose details ) in order to make work-related phone calls .
+509 	com.motorola.camera;com.motorola.MotGallery2	taking picture at work
+510 	com.android.dialer;com.android.mms	message wife ( joelle )
+511 	com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.android.chrome	using chrome for google search and maps to look up information for upcoming road trip
+512 	com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps	using google search and maps to look up estimated driving time from pittsburgh to cleveland connor theater .
+513 	outgoing_call;com.android.contacts;com.android.mms	calling mom ( debe ) to update her on trip . texted when she did n't pick up .
+514 	com.android.mms;com.android.contacts;com.android.mms;com.android.contacts;com.android.mms	texting mother in law ( marie ) and father in law ( claude )
+515 	com.google.android.gm;com.facebook.katana	check email and facebook together first thing in the morning
+516 	outgoing_call;com.android.dialer;outgoing_call;com.android.phone;com.android.dialer;com.android.mms;com.android.mms;com.android.mms;com.android.contacts;com.android.mms;com.android.mms;com.android.dialer;com.android.mms	contacting mom ( debe ) dad ( rick ) and mother in law ( marie ) via text and phone calls do not remember exact order
+517 	com.google.android.gm;com.android.calendar	check email then adding an event to my calendar based on an email i received
+518 	com.motorola.camera;com.motorola.MotGallery2;com.motorola.camera;com.motorola.camera	taking pictures at work
+519 	com.google.android.gm;com.facebook.katana	checking facebook and email together when turning phone on for first time
+520 	com.android.mms;outgoing_call;com.android.dialer	received text from brother ( stephen ) then called him back to answer his question
+521 	com.android.dialer;com.android.contacts;com.android.mms	called wife ( joelle ) then sent a text message to her
+522 	com.motorola.camera;com.motorola.MotGallery2;com.android.contacts;com.android.mms	took picture and sent via mms
+523 	com.motorola.camera;com.android.mms;com.android.mms;com.motorola.camera	taking pictures and sharing via mms
+524 	com.google.android.gm;com.facebook.katana;com.google.android.gm;com.google.android.gm	checking email and facebook for new messages and stories in the morning
+525 	com.android.contacts;com.android.mms	sent and received work-related text message
+526 	com.android.dialer;com.android.mms;com.android.dialer	called mom ( debe ) and also texted her
+527 	com.android.dialer;outgoing_call;com.android.mms	called wife ( joelle ) texted when i got her voicemail
+528 	com.google.android.gm;com.android.chrome;com.facebook.katana;com.android.chrome	passing time by browsing facebook checking email and surfing the web simultaneously
+529 	com.facebook.katana;com.android.dialer;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.android.contacts;outgoing_call;com.android.dialer;outgoing_call;com.android.phone;com.android.dialer	called wife waited a moment before attempting to call again . browsed facebook during the brief interim .
+530 	com.etermax.preguntados.lite;com.facebook.katana	playing game sharing results on facebook
+531 	com.pnc.ecommerce.mobile;com.android.chrome	using mobile bank app then confirming that the transaction went through in browser
+532 	com.etermax.preguntados.lite;com.etermax.preguntados.lite;com.facebook.katana;com.etermax.preguntados.lite;com.facebook.katana	playing trivia crack using facebook to find friends to challenge
+533 	com.android.chrome;com.android.calendar	using chrome to look up when gypsy ( the play ) would be playing in pittsburgh then adding to calendar
+534 	com.facebook.katana;com.facebook.orca;com.facebook.katana;com.etermax.preguntados.lite;com.etermax.preguntados.lite	browsing facebook to challenge friends to game also browsing facebook just for new posts
+535 	com.facebook.katana;com.facebook.orca;com.facebook.katana	browsing facebook also using facebook messenger to chat with a friend concurrently
+536 	com.facebook.orca;com.facebook.katana	messaging a friend on fb and also browsing fb simultaneously
+537 	com.google.android.gm;com.facebook.katana;com.google.android.gm	checking for any new emails or facebook posts
+538 	com.motorola.camera;com.motorola.MotGallery2	took picture and then looked at it/cropped it in the gallery
+539 	com.android.mms;com.google.android.gm;com.facebook.katana	checked for new text messages emails or facebook posts
+540 	com.google.android.gm;com.facebook.katana	checking gmail and facebook for any new messages
+541 	com.jawbone.up;com.google.android.gm;com.facebook.katana	was walking the trail to downtown checked jawbone up ( pedometer ) app for calories burned then checked gmail and facebook to pass the time
+542 	com.motorola.MotGallery2;com.android.mms	sending photo from gallery via mms
+543 	com.android.mms;com.facebook.katana;com.android.mms;com.facebook.katana;com.google.android.gm;net.gaggle.mobile.android;com.google.android.gm;com.facebook.katana;com.google.android.gm;com.facebook.katana	texting checking gmail and gaggle ( work email ) and facebook while on a bus
+544 	com.android.dialer;com.android.mms;com.android.mms	missed call from dad ( rick ) answered via text message since it was late and i was n't sure he was still up
+545 	com.android.mms;com.google.android.gm;com.facebook.katana	checking for new texts emails or facebook first thing in the morning
+546 	com.android.mms;outgoing_call;com.android.dialer	received text from mom ( debe ) called her back
+547 	com.todaytix.TodayTix;com.todaytix.TodayTix;com.episode6.android.nycsubwaymap	checking broadway ticket prices and looking up where they were playing in nyc
+548 	com.facebook.katana;com.facebook.orca;com.facebook.katana	using facebook messenger with friend ( todd )
+549 	com.pnc.ecommerce.mobile.vw.android;com.discoverfinancial.mobile	checking bank account online ( pnc ) and then paying credit card bill ( discover )
+550 	com.google.android.gm;com.google.android.gm;com.google.android.gm;cmu.troy.androidlogger	sending logs
+551 	com.google.android.deskclock;com.facebook.katana;com.android.mms;com.facebook.katana;com.google.android.gm	alarm clock went off checked facebook gmail and texts for any new message .
+552 	com.android.mms;com.android.contacts;outgoing_call;com.android.phone;com.android.dialer;com.android.chrome	received voicemail via text ( google voice ) from mother-in-law ( marie ) and then returned her call
+553 	com.google.android.gm;com.facebook.katana;com.google.android.gm;com.android.chrome;com.facebook.katana	checking gmail for new messages and facebook for new messages or stories opened fb link in chrome
+554 	com.google.android.gm;com.android.mms;com.google.android.gm;com.android.mms	looking up flight information for dad ( rick ) and texting it to him
+555 	com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.motorola.MotGallery2;com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.android.mms;com.google.android.gm	looking up restaurants and reviews on google maps and directions to mario 's pizza in beaver pa. emailed and mms wife a screenshot of the map location so she could meet me there .
+556 	com.android.contacts;com.android.phone;outgoing_call;com.android.dialer;com.google.android.apps.maps;com.android.contacts;com.android.mms;com.android.mms;com.android.dialer	calling and texting joelle ( wife ) regarding dinner plans
+557 	com.discoverfinancial.mobile;com.android.chrome	pay credit card bill app opens chrome on discover card mobile site for confirmation
+558 	com.android.chrome;com.google.android.youtube;com.android.chrome;com.google.android.youtube;com.android.chrome;com.google.android.youtube;com.android.chrome	play tina turner river deep mountain high on youtube
+559 	com.android.chrome;com.google.android.gm;com.android.chrome;cmu.troy.androidlogger	receive doodle link make appointment and send logs
+560 	com.android.chrome;com.android.calendar	add study time to calendar
+561 	com.google.android.gm;com.android.browser	looking up information about a place where i was going that had emailed me
+562 	com.google.android.youtube;com.android.browser	looking at a video linked from an online blog
+563 	com.android.browser;com.google.android.youtube;com.android.browser;com.google.android.youtube;com.android.browser	looking at websites watching linked videos
+564 	com.android.browser;com.google.android.apps.maps;com.android.browser	looking up location where i was going in oakland
+565 	com.android.mms;jp.kyocera.camera	sending picture message
+566 	outgoing_call;com.android.dialer;com.android.mms	texting and calling my boyfriend
+567 	com.android.mms;com.android.dialer	texting then calling my boyfriend scott
+568 	com.google.android.youtube;com.android.browser	browsing sites and watching videos linked from site
+569 	com.google.android.youtube;com.android.browser	browsing sites watching video linked from site
+570 	jp.kyocera.camera;com.android.mms	taking picture sending picture message to scott
+571 	com.android.browser;com.android.settings;com.android.browser;com.birdstep.android.cm;com.android.browser;com.android.settings;com.android.browser	browsing websites turning wifi on and off
+572 	com.android.dialer;com.android.browser	calling store to see if they had an item for christmas got their number from website
+573 	com.android.browser;com.android.chrome	browsing websites but browser got stuck so i switched to chrome
+574 	com.android.browser;com.google.android.youtube;com.android.browser;com.google.android.youtube;com.android.browser	browsing sites watching videos linked from site on youtube app
+575 	com.android.mms;com.android.dialer;com.android.mms;com.android.mms	sending text messages and calling scott
+576 	com.android.settings;com.android.browser	turning off wi-fi browsing sites
+577 	com.android.mms;com.android.browser;com.android.mms;com.android.browser;com.android.mms	texting browsing ikea site
+578 	com.android.browser;com.android.settings;com.android.browser;com.birdstep.android.cm;com.android.browser	browsing ikea site turning off wi-fi
+579 	com.android.settings;com.android.browser	turning off wi-fi browsing sites
+580 	com.android.browser;com.android.browser;com.android.calculator2;com.android.browser	browsing ikea site using calculator to check out
+581 	com.android.mms;com.android.dialer;com.android.contacts	texting and calling scott
+582 	com.android.browser;com.google.android.apps.docs	downloading document from website and viewing it
+583 	com.android.browser;com.google.android.youtube;com.android.browser	browsing website and watching video linked from website
+584 	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.browser;com.google.android.gm;com.android.browser	checking email clicking link within email
+585 	com.google.android.gm;com.google.android.gm;com.google.android.apps.docs;com.google.android.gm	checking gmail opening document
+586 	com.android.browser;com.android.settings;com.android.browser	browsing sites and turning off wi-fi
+587 	com.android.calculator2;jp.kyocera.camera;jp.kyocera.camera	using calculator for shopping trip taking picture of item from shopping trip
+588 	jp.kyocera.camera;com.android.mms	looking at pictures sending picture message
+589 	com.android.mms;jp.kyocera.camera;jp.kyocera.camera	sending a picture message
+590 	com.google.android.gm;com.android.browser	checking gmail and clicking link
+591 	com.android.mms;jp.kyocera.camera;com.android.mms;jp.kyocera.camera;com.android.mms	sending picture message to scott
+592 	com.google.android.gm;com.android.browser;com.google.android.gm	checking gmail and clicking link off email
+593 	com.google.android.gm;com.android.browser	clicked link from gmail to view on browser
+594 	jp.kyocera.camera;com.android.mms;com.android.contacts;com.android.mms	sent a picture message to scott
+595 	com.android.browser;com.birdstep.android.cm;com.android.browser	browsing sites and turning on wi-fi
+596 	com.android.browser;com.birdstep.android.cm;com.android.browser;com.birdstep.android.cm;com.android.browser	browsing sites
+597 	com.android.browser;com.android.chrome;com.android.browser;com.android.chrome;com.android.chrome	browsing sites
+598 	com.android.browser;com.android.chrome;com.android.browser;com.android.chrome	browsing sites
+599 	com.android.browser;com.android.chrome	browsing sites
+600 	com.android.browser;com.android.chrome	browsing sites browser did not work so switched to chrome
+601 	com.android.browser;com.android.chrome	browsing sites browser did not work so switched to chrome
+602 	com.android.mms;com.android.contacts	checking text messages
+603 	com.google.android.gm;com.android.chrome;com.android.browser	checking gmail clicked link off email link did not work in chrome tried other browser
+604 	com.android.mms;com.android.contacts	checking text messages
+605 	com.android.mms;com.android.contacts	checking text messages
+606 	jp.kyocera.camera;com.android.mms	sent picture message
+607 	com.android.settings;com.android.browser	turning off wifi to use browser
+608 	com.google.android.gm;com.android.browser	checking gmail
+609 	com.android.mms;jp.kyocera.camera;com.android.mms	sent a picture message
+610 	com.android.browser;com.android.browser;com.android.chrome;com.android.browser	browsing sites
+611 	com.android.browser;com.birdstep.android.cm;com.android.settings;com.android.browser;com.android.browser	browsing sites and turning off wifi
+612 	com.android.dialer;com.coremobility.app.vnotes;com.android.dialer	ignored telemarketer and checked voicemail
+613 	com.android.mms;com.android.mms;jp.kyocera.camera;com.android.mms	texting with scott and sending picture messages
+614 	com.android.settings;com.android.browser	turning on wifi to use browser
+615 	com.google.android.apps.maps;com.android.browser	getting bus directions to troy hill
+616 	com.android.mms;com.android.contacts	texting karen
+617 	com.android.browser;com.android.settings;com.android.browser;com.android.chrome;com.android.browser;com.android.chrome	browsing sites and turning wifi on/off
+618 	com.android.browser;com.android.chrome	browsing sites was having connection issues so switched between browsers
+619 	com.android.browser;com.android.chrome	link would not work in browser opened in chrome
+620 	jp.kyocera.camera;com.android.mms	sending picture message to scott
+621 	com.android.chrome;com.android.browser;com.android.chrome;com.android.browser;com.android.chrome	browsing sites switching between browsers as i was having connection issues
+622 	com.android.mms;com.android.contacts	added friend to contact from text message
+623 	com.android.chrome;com.kyocera.MipErrorDialog;com.android.browser;com.android.chrome	browsing sites and browser crashed
+624 	com.android.chrome;com.android.browser;com.android.chrome	browsing sites and switching between browsers
+625 	com.android.settings;com.android.browser;com.android.chrome	turning off wifi to browse sites
+626 	jp.kyocera.camera;com.android.mms;com.android.mms	sending picture messages
+627 	com.android.chrome;com.android.browser	browsing sites
+628 	com.android.settings;com.android.browser;com.android.browser;com.android.chrome	turning off wifi to browse sites
+629 	com.google.android.gm;com.android.browser	clicked link off gmail
+630 	com.android.settings;com.android.browser	turned off wifi to browse sites
+631 	com.android.chrome;com.android.browser;com.android.chrome	switching between browsers
+632 	com.android.settings;com.android.browser;com.android.chrome	turning on wifi and switching between browsers
+633 	com.android.contacts;com.android.mms	sending text messages
+634 	com.android.browser;com.android.chrome	switching between browsers
+635 	com.android.chrome;com.android.chrome;com.android.chrome;com.android.chrome;com.android.browser	browsing sites and switching between browsers
+636 	jp.kyocera.camera;jp.kyocera.camera;com.android.mms	sending picture messages
+637 	cmu.troy.androidlogger;com.google.android.gm;com.android.contacts	sending you logs
+638 	com.android.chrome;com.android.browser	browsing site did n't work in one browser tried another
+639 	jp.kyocera.camera;com.android.gallery3d	looking at images in gallery
+640 	jp.kyocera.camera;com.android.mms	sending picture message
+641 	com.android.chrome;com.android.vending	browsing sites which opened pop up for buying some game i did n't want
+642 	com.android.browser;com.google.android.apps.maps;com.android.browser	looking for address to soundcat records and getting directions
+643 	jp.kyocera.camera;com.android.mms	sending picture message to scott
+644 	org.adblockplus.android;com.android.chrome	turned off adblock browser was n't working right
+645 	cmu.troy.androidlogger;com.android.calendar	sent logs checked calendar reminder to send them
+646 	com.google.android.gm;com.android.mms;com.google.android.gm	chatting with holly and emailing her links
+647 	com.google.android.gm;com.android.chrome;com.android.settings;com.android.chrome	tracking packages from links in gmail reset wi-fi
+648 	com.android.browser;com.android.chrome	browser was n't working correctly used chrome
+649 	jp.kyocera.camera;com.android.mms	sending picture message to scott
+650 	com.android.browser;com.android.chrome;com.android.settings;com.android.chrome;org.adblockplus.android;com.android.chrome	browser did n't work correctly tried chrome reset wi-fi still not working reset ad block
+651 	com.android.settings;com.android.browser;com.android.chrome	turned off wi-fi browsed sites
+652 	jp.kyocera.camera;com.android.mms;com.android.mms;com.android.mms	sent picture message to holly
+653 	com.android.browser;com.android.chrome	browsing sites did n't work used chrome
+654 	com.android.contacts;com.android.mms	messaging scott
+655 	com.android.chrome;com.android.browser;com.android.chrome;com.android.chrome	looking up information about bob 's workplace
+656 	com.android.mms;com.android.dialer;com.android.mms	messaging with bob and trying to call him
+657 	com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.android.chrome	browsing for and getting navigation to waterfront
+658 	com.android.chrome;org.adblockplus.android;com.android.chrome;com.google.android.youtube;com.android.chrome	browsing dlisted saw funny dog video . browser was n't working right so i reset adblock . watched video on youtube .
+659 	com.google.android.youtube;com.android.chrome	watched preview for national lampoon vacation remake
+660 	com.google.android.youtube;com.android.chrome	watched more movie previews linked off site
+661 	com.android.dialer;com.android.chrome	browsing website for east end tap room in lawrenceville and calling them
+662 	com.android.mms;com.android.dialer;com.android.mms	texting and calling scott
+663 	com.android.contacts;com.android.mms	texting bob
+664 	com.android.dialer;outgoing_call;com.jrtstudio.music	calling target to see how late they were open listening to rap playlist on the walk there
+665 	com.google.android.gm;com.android.chrome;com.android.chrome	got an email that an order was shipped tracking order with browser
+666 	com.android.dialer;com.android.contacts;com.android.chrome	called pho minh restaurant to see if they were open
+667 	com.google.android.apps.maps;com.android.chrome	browsed site for el milagro mexican restaurant used navigation
+668 	com.google.android.apps.maps;com.android.chrome	browsed site for bed bath and beyond used navigation
+669 	com.google.android.apps.maps;com.android.chrome	brought up navigation for bed bath and beyond again
+670 	com.android.contacts;com.google.android.gm	added new email to my contact list
+671 	com.android.browser;com.android.chrome	opened browser was n't working properly so switched to chrome
+672 	com.android.browser;com.android.chrome;com.android.chrome	opened browser was n't working properly opened chrome
+673 	com.android.mms;com.android.chrome;com.android.mms	texting with holly about an article i emailed
+674 	com.android.chrome;jp.kyocera.camera;com.android.chrome	emailing a picture that i took
+675 	com.android.chrome;com.google.android.youtube	browsing dlisted linked to funny animal video
+676 	com.google.android.gm;com.android.calendar	checking mail adding reminders to calendar
+677 	com.google.android.gm;com.android.chrome	clicking link off gmail to bulletin board
+678 	com.google.android.play.games;com.android.settings	accidentally clicked on download opened play store
+679 	jp.kyocera.camera;com.android.settings	went to take picture turned off wifi ( picture messages wo n't send if wifi is on )
+680 	com.android.chrome;com.android.chrome;com.android.browser	browsing kitchen info
+681 	com.android.calculator2;com.android.chrome;com.android.chrome;com.android.calculator2	calculating to see if i had enough money for everything looking up products i was getting
+682 	com.android.chrome;com.android.browser;com.android.chrome	browsing dlisted
+683 	com.android.browser;com.android.chrome	browsing gossip sites
+684 	com.google.android.apps.docs;com.android.chrome	looking up kitchen installation instructions downloading
+685 	com.google.android.gm;com.android.chrome;com.android.chrome;com.google.android.apps.docs;com.android.browser	checking mail clicking links to bulletin board . looking up and downloading instructions
+686 	com.android.phone;com.android.mms	texting
+687 	com.android.browser;com.android.chrome	browsing sites
+688 	com.facebook.katana;com.htc.calendar	looking up details of event ( xmas party ) on facebook then checking time on calendar app
+689 	com.htc.album;com.android.htccontacts;com.android.mms;com.htc.album;com.android.mms	sending a picture message t o a friend
+690 	com.android.phone;com.android.mms	missed call from my dad and texting him back
+691 	com.google.android.gm;com.htc.android.mail	email updates
+692 	com.facebook.katana;com.android.browser;com.facebook.katana;com.android.browser;com.facebook.katana;com.android.browser	reading stories online from facebook
+693 	com.htc.android.mail;com.android.browser;com.android.mms	reviewing work schedule on email and texting friend my hours
+694 	com.android.mms;com.android.browser;com.pinterest	looking up recipes on pinterest and online and texting my sister emily about what to make
+695 	com.android.mms;com.sec.android.app.camera	sending picture message
+696 	com.android.vending;com.rechild.advancedtaskkiller;com.android.vending;com.rechild.advancedtaskkiller	using google play to download and install task killer app
+697 	com.android.settings;com.rechild.advancedtaskkiller	using app to kill background apps
+698 	com.android.mms;com.sec.android.app.camera;com.sec.android.gallery3d;com.sec.android.app.camera;com.android.mms;com.sec.android.gallery3d	took a photo viewed photo sent to jason via text
+699 	com.google.android.gm;com.google.android.apps.maps	looking up address for eye doctor ; mapping directions to eye doctor
+700 	com.android.incallui;com.android.mms	in coming call from dad then texting jason
+701 	com.android.incallui;com.android.mms;com.android.incallui;com.android.mms	received call from grandma
+702 	com.android.incallui;com.android.mms	call from dad cell then text to jason
+703 	com.android.phone;outgoing_call;com.android.incallui;com.android.mms;com.android.contacts;outgoing_call;com.android.incallui;com.android.mms;com.android.incallui;com.android.mms	called jason ( no answer ) then he called back . texted my mom ( terri ) then called her and texted jason
+704 	com.android.chrome;com.google.android.youtube;com.android.chrome;com.android.mms	looking up information on tires and then going to youtube to watch a video on tires then texting mom
+705 	com.facebook.katana;com.google.android.youtube	saw a video in facebook news feed and looked it up on youtube
+706 	com.fitbit.FitbitMobile;com.myfitnesspal.android;com.android.chrome;com.myfitnesspal.android	using fitbit and my fitness pal apps to log work out . looking up work out info using chrome
+707 	com.android.mms;com.pnc.ecommerce.mobile	texting mom account balance using pnc app
+708 	com.android.mms;com.redbox.android.activity	texting jason about movies to rent then checking red box for rentals
+709 	com.timehop;com.android.mms	sending photo from time hop to leslie via text message
+710 	com.nowaitapp.consumer;com.android.mms	checking wait time for hofbrahaus and then texting nikki how long
+711 	com.android.mms;com.pnc.ecommerce.mobile;com.android.mms	texting mom about account transfer and using pnc app to look up info
+712 	com.android.mms;com.sec.android.app.camera;com.android.mms	sending picture message to jason
+713 	com.android.mms;com.nowaitapp.consumer;com.android.chrome;com.android.providers.downloads.ui;com.android.chrome;com.android.settings	texting stacey regarding dinner plans using no wait app to check wait times and then using web to lo make reservations and download menus
+714 	com.android.chrome;com.nowaitapp.consumer;com.android.chrome;com.android.contacts;com.android.phone;outgoing_call;com.android.incallui;com.nowaitapp.consumer;com.android.contacts;com.android.phone;outgoing_call;com.android.incallui;com.android.contacts	using web to look up restaurant reservation options and menus then checking wait time on no wait app . called charthouse and salt grass to make reservations
+715 	com.instagram.android;com.sec.android.app.camera;com.android.mms	added photo to instagram and then also sent photo in picture message
+716 	com.sec.android.app.camera;com.android.mms	taking a photo and sending it via text message to emily
+717 	com.google.android.deskclock;com.google.android.music	turned off first alarm when i woke up
+718 	com.google.android.deskclock;com.google.android.music	turned off second alarm
+719 	com.google.android.deskclock;com.google.android.music	shut off alarm when i woke up in the morning .
+720 	com.google.android.deskclock;com.google.android.music	turned off second alarm when i woke up
+721 	com.clearchannel.iheartradio.controller;com.google.android.music	opened iheart radio app but decided to listen to goldfrapp on google music instead
+722 	com.motorola.email;com.google.android.gm	checked my two email accounts
+723 	com.mobilityware.solitaire;com.bigduckgames.flow	played solitaire and flow
+724 	com.google.android.deskclock;com.google.android.music	turned off alarm
+725 	com.google.android.deskclock;com.google.android.music	turned off second alarm
+726 	com.android.settings;com.android.chrome	connected to cmu wifi then got on the internet
+727 	com.google.android.deskclock;com.google.android.music	turned off alarm
+728 	com.google.android.deskclock;com.google.android.music	turned off second alarm
+729 	com.google.android.gm;com.motorola.email	checked my email
+730 	com.google.android.gm;com.android.documentsui;com.google.android.gm;com.android.dialer;com.android.phone;outgoing_call;com.android.dialer	checked email and looked at attached document . called my mom in regards to the email
+731 	com.motorola.email;com.google.android.gm	checked email accounts
+732 	com.android.contacts;com.google.android.apps.maps;com.android.dialer;outgoing_call;com.google.android.apps.maps	looked up location of veltre 's pizza and called to place an order
+733 	com.tvguidemobile;com.nhl.gc1112.free	check the tv channel the pens game was on
+734 	com.google.android.gm;com.motorola.email	checked email accounts
+735 	com.motorola.email;com.google.android.gm	checked email
+736 	com.google.android.gm;com.motorola.email;com.google.android.gm	checked email
+737 	com.motorola.camera;com.motorola.MotGallery2;com.android.contacts;outgoing_call;call_begin;com.android.dialer	took a picture of my gas meter . called the gas company
+738 	com.motorola.camera;com.motorola.MotGallery2	take a picture
+739 	com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps	looked up location of tunnel of suds carwash . went to carwash 's website . navigate to the carwash .
+740 	com.android.calendar;com.android.dialer;outgoing_call	looked at my calendar . called my mom .
+741 	com.motorola.email;com.bredir.boopsie.clp	received email from the library about a book 's due date . went to the library 's app and renewed the book .
+742 	com.android.vending;com.android.settings;com.android.vending;com.android.settings	tried to update app in google play store . google play said to turn on wifi . turned on my apartment 's wifi then went back to google play store . after the app finished downloading turned off wifi
+743 	com.sec.android.app.clockpackage;com.facebook.orca;com.sec.android.app.clockpackage	alarm went off for rowing practice messaged housemates that i was not going turned alarm off
+744 	com.android.calendar;com.android.mms	checking what time a meeting is at texting a reminder to a friend
+745 	com.android.chrome;com.clearchannel.iheartradio.controller;com.android.chrome;com.clearchannel.iheartradio.controller;com.android.chrome;com.google.android.youtube;com.android.chrome	the arduous search through 3ws ' website to find a recent song playlist and then using iheartradio to listen and see if that was the song i was looking for
+746 	com.cleanmaster.mguard;com.ea.game.tetris2011_na	playing bass boosted tetris
+747 	com.android.mms;com.android.phone;com.android.mms;com.sec.android.app.clockpackage;com.android.mms;com.snapchat.android	random stuff
+748 	com.android.chrome;com.android.mms	making plans with brooke
+749 	com.cleanmaster.mguard;com.ea.game.tetris2011_na	playing tetris and cleaning files for it
+750 	com.android.mms;com.android.chrome	texting brooke about going to dave and busters
+751 	com.android.mms;com.android.chrome	making plans with friends
+752 	com.snapchat.android;com.android.mms;com.snapchat.android;com.android.mms;com.snapchat.android	looking at snapchat in between important texts
+753 	com.android.chrome;com.google.android.youtube	looking for skate videos
+754 	com.snapchat.android;com.android.chrome;com.google.android.youtube;com.android.chrome	wasting time until my friends get off work
+755 	com.snapchat.android;com.android.mms	talking to friends
+756 	com.cleanmaster.mguard;com.ea.game.tetris2011_na	playing game boosted tetris
+757 	com.android.mms;outgoing_call;com.android.phone	yelling at asher for being a dumbass via talk and text
+758 	cmu.troy.androidlogger;com.lge.app.richnote	send the log and create the androidlogger memo for tuesday
+759 	com.android.chrome;com.facebook.katana	high school memorial facebook page links to former high school students obituaries .
+760 	com.android.chrome;com.lge.app.richnote	googled ear infection symptoms . copied link to post to the memo .
+761 	com.lge.email;com.lge.app.richnote;com.lge.email;com.android.chrome;com.lge.email;com.facebook.katana	checking emails and then clicked on promo pro link for coupon codes . then liked their page .
+762 	com.google.android.apps.maps;com.lge.QuickClip;com.lge.app.richnote;com.google.android.apps.maps;com.lge.app.richnote	google doctor organist selected directions for buses . screenshot time table and save to memo .
+763 	com.lge.email;com.android.chrome;com.lge.email	checking email connected to brad 's deals link . follow the links to jetblue travel site .
+764 	com.facebook.katana;com.android.gallery3d;com.facebook.orca;com.android.gallery3d	send melissa photos of rainbow butterfly unicorn kitten .
+765 	com.android.chrome;com.facebook.katana;com.facebook.katana	check a link on joey 's page for global at works .
+766 	com.lge.sizechangable.weather;com.android.chrome	check the weather and clicked the link on accuweather.com
+767 	com.android.contacts;com.android.mms;com.lge.app.richnote	sent marci photo of rainbow butterfly unicorn kitten ( from memo ) .
+768 	com.facebook.katana;com.android.contacts;com.facebook.katana	send marci video of drunk squirrel playing in the snow .
+769 	com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.jb.gosms;com.android.calendar;com.android.chrome	going to allegheny medical
+770 	com.google.android.apps.maps;com.ubercab;outgoing_call	calling uber and finding direction
+771 	com.jb.gosms;com.google.android.apps.maps;com.jb.gosms;com.google.android.apps.maps;com.jb.gosms;com.android.calendar;com.jb.gosms	setting up dinner plans with younger brother while on bus
+772 	com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps	finding and checking on route to petsmart
+773 	com.google.android.apps.maps;net.slickdeals.android;com.google.android.apps.maps;com.android.calendar	finding and checking route home
+774 	com.lge.email;com.android.chrome	checking my e-mail using chrome
+775 	com.lge.clock;com.spotify.music;com.lge.clock	using my stopwatch feature during a workout . was also listening to the fall of troy
+776 	jp.co.johospace.jorte;com.kakao.talk;jp.co.johospace.jorte;jp.co.johospace.jorte;com.kakao.talk;jp.co.johospace.jorte;com.kakao.talk	check my list of thing to do for a certain day and send the list to a friend
+777 	com.android.gallery3d;com.linecorp.b612.android	check photos taken with the app b612
+778 	com.android.gallery3d;com.lge.email;com.android.gallery3d	check a photo of an instrument setup and download another related photo from email
+779 	com.lge.music;com.android.settings	play music and turn on bluetooth speaker
+780 	com.android.settings;com.lge.music;com.lge.music	connect to bluetooth headphone and play shuffle
+781 	com.android.settings;com.android.browser	turning on wi-fi
+782 	com.android.settings;com.android.vending	updating apps
+783 	com.android.settings;com.android.vending	updating apps
+784 	com.android.settings;com.facebook.katana	clearing facebook data to fix app problems
+785 	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.calendar	scheduling next lacs session
+786 	com.android.email;com.android.chrome;com.android.email	open link in email
+787 	com.android.contacts;com.android.mms	received text message from julian regarding dinner plans
+788 	com.google.android.talk;com.whatsapp	call from harshit on google hangouts
+789 	com.android.gallery3d;com.android.mms	choosing picture and sending it via text message
+790 	com.android.gallery3d;com.whatsapp;com.android.gallery3d;com.facebook.katana;com.instagram.android;com.facebook.katana;com.facebook.katana;com.android.mms;com.facebook.katana;com.whatsapp;com.whatsapp;com.facebook.katana;com.android.chrome;com.instagram.android;com.facebook.katana;com.facebook.katana	sending pictures and conversing with friends about trip
+791 	com.android.gallery3d;com.android.mms;com.whatsapp;com.android.mms;com.google.android.gm;com.instagram.android;com.whatsapp;com.android.mms;com.whatsapp;com.facebook.katana;com.whatsapp;com.facebook.katana	sending pictures to friends and family and posting on social media
+792 	com.android.gallery3d;com.whatsapp	sending pictures to friend
+793 	com.facebook.katana;com.google.android.youtube	clicked on video link on facebook
+794 	com.android.dialer;com.whatsapp	recieved call from harshit but call cut out and whatsapped messaged about difficulty connecting
+795 	com.google.android.gm;com.android.chrome	recieved email notification about freelancing opportunity and clicked on link to see full website
+796 	com.facebook.katana;com.android.chrome	clicked on link through facebook
+797 	com.sec.android.app.camera;com.android.mms	took picture of pet ; texted to krista
+798 	com.sec.android.app.camera;com.android.mms	took picture of pet ; texted to krista
+799 	com.android.chrome;com.facebook.katana	clicked link on facebook
+800 	com.android.chrome;com.bitstrips.bitstrips;com.android.chrome	posting cartoons on facebook through chrome
+801 	com.facebook.katana;com.bitstrips.bitstrips	cartoon program through facebook
+802 	com.android.contacts;com.android.mms	msg from boss to know the updates
+803 	com.android.contacts;com.android.mms;com.android.mms	texting debe ( mom )
+804 	com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome	checking email and open external links from within messages
+805 	com.android.mms;com.android.dialer;outgoing_call;com.android.phone;call_begin;com.android.dialer;com.android.mms;com.google.android.apps.maps	texting and callling debe ( mom ) to arrange pickup in oakland . used maps to determine how to describe where i was to her .
+806 	com.google.android.gm;com.google.android.gm;com.google.android.apps.docs	opening attachment from gmail message in google docs
+807 	com.google.android.apps.maps;com.buspgh.apps.app01	looked up scheduled departure for next route 65 and then used real time bus tracker
+808 	com.google.android.apps.maps;com.android.dialer;com.google.android.apps.maps;com.android.contacts;outgoing_call	looking up directions to pittsburgh to see how to get onto the turnpike from west chester interrupted by a phone call from debe ( mom ) warning us of possible inclimate weather during the trip . called her back to let her know we were on the road .
+809 	com.motorola.MotGallery2;com.android.mms	sending picture to marie ( mother in law )
+810 	com.android.dialer;com.blockcallsgetcash;com.android.mms	received call from pnc bank erroniously flagged as spam clicked that it was an ok call then got transcript of voicemail on google voice via sms
+811 	com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.chrome;com.facebook.katana;com.android.chrome;com.android.vending	saw article on fb about aclu app mobile justice went to external article about it posted about it on facebook then went to play store to download it
+812 	com.android.browser;com.android.chrome	browsing sites
+813 	com.android.mms;com.android.chrome;com.android.mms	texting scott to see if he wanted book looked up the book
+814 	com.android.chrome;com.android.settings;com.android.chrome	browsing sites toggling wifi settings
+815 	com.google.android.apps.docs;com.android.chrome	downloading kitchen installation instructions
+816 	com.google.android.apps.docs;com.android.chrome;org.adblockplus.android;com.android.chrome	browsing for ikea assembly instructions downloading and opening toggling adblock on and off
+817 	com.google.android.gm;com.android.chrome;com.google.android.gm	checking gmail clicking on message board links that led me to site
+818 	com.google.android.gm;com.android.chrome;jp.kyocera.camera;com.android.chrome	checking mail clicking links off mail . emailing a photo that i took through gmail
+819 	com.google.android.apps.docs;com.android.chrome;org.adblockplus.android;com.android.chrome;org.adblockplus.android;com.android.chrome;org.adblockplus.android;com.android.chrome;org.adblockplus.android;com.android.chrome;com.android.browser;org.adblockplus.android;com.android.browser;com.android.settings;com.android.chrome;com.android.settings;com.android.chrome	reading assembly instructions that i 'd downloaded browsing sites having connectivity issues . toggled between adblock chrome and browser turning wifi on and off
+820 	com.android.settings;com.android.chrome;org.adblockplus.android;com.android.chrome;org.adblockplus.android;com.android.chrome;com.android.settings;com.android.chrome;org.adblockplus.android;com.android.chrome;com.android.browser;org.adblockplus.android;com.android.browser	toggling wifi on and off toggling adblock on and off trying with different browsers . turned out my wifi was down .
+821 	org.adblockplus.android;com.android.browser;com.android.chrome	toggling settings to test connectivity
+822 	com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome	checking gmail clicking on links to nextdoor board
+823 	org.adblockplus.android;com.android.chrome;com.android.browser	toggling adblock settings and checking browsers for connectivity
+824 	com.google.android.gms;com.android.settings;org.adblockplus.android;com.android.browser	checking mail toggling adblock and wifi settings testing browser
+825 	jp.kyocera.camera;com.android.mms	sending scott picture message
+826 	com.android.settings;com.android.browser;org.adblockplus.android;com.android.browser;com.android.settings	toggling wifi settings and adblock to test connectivity
+827 	com.android.chrome;com.android.documentsui	looked up installation instructions for ikea furniture and opened document
+828 	com.android.settings;com.android.browser	toggling wifi browsing sites
+829 	com.android.settings;com.android.chrome	toggling wifi browsing sites
+830 	com.android.deskclock;com.jrtstudio.music	setting alarm selecting music to be used as alarm
+831 	com.android.settings;com.android.chrome;com.android.settings;com.android.chrome	toggling wifi on and off browsing sites
+832 	com.android.settings;com.android.chrome;com.android.settings;com.android.chrome	toggling wifi on and off browsing sites
+833 	com.android.settings;com.android.chrome	toggling wifi on and off browsing sites
+834 	jp.kyocera.camera;com.android.mms;com.android.settings;com.android.mms;jp.kyocera.camera;com.android.mms;jp.kyocera.camera;com.jrtstudio.music;com.android.mms	sending plant pictures to anna and messaging about them . listening to rap mix while gardening .
+835 	com.android.mms;com.jrtstudio.music;com.android.mms;com.jrtstudio.music	texting with scott listening to timbaland
+836 	com.android.mms;com.jrtstudio.music;com.android.mms	texting with scott listening to blues mix
+837 	com.android.browser;com.google.android.youtube;com.android.browser	looking for videos of dogs in swings watched videos
+838 	com.google.android.gm;com.android.mms;com.google.android.talk;com.android.mms	talking using google hangouts
+839 	com.android.chrome;com.google.android.gm;com.android.calendar;com.google.android.gm;com.android.chrome	checking tasks and adding them to calendar browsing links off gmail
+840 	jp.kyocera.camera;com.android.gallery3d;com.android.settings;com.android.mms;jp.kyocera.camera;com.android.mms	taking pictures of cats turning off wi-fi ( wo n't send picture message if it 's on ) sending to scott
+841 	com.android.mms;com.android.browser;com.android.chrome	texting links with holly
+842 	outgoing_call;com.android.dialer;com.android.mms	calling john he dind't pick up messaging him instead
+843 	com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome	emailing with john sharing links off gmail
+844 	com.android.mms;com.android.mms;com.android.calendar;com.android.mms	texting scott my schedule
+845 	com.android.calculator2;com.android.mms;com.android.calculator2;com.android.mms;com.android.calculator2	using calculator at supermarket texting scott to get me
+846 	org.adblockplus.android;com.android.chrome;com.android.settings;com.android.chrome	browsing sites toggling wifi settings
+847 	org.adblockplus.android;com.android.chrome	toggling adblock browsing sites
+848 	com.android.chrome;com.google.android.gm;com.android.chrome	browsing sites checking mail clicking links from gmail
+849 	com.android.chrome;com.google.android.apps.maps;com.android.chrome	looking up navigation to pnc park
+850 	com.android.mms;com.google.android.gm;com.android.mms	texting holly about game sending her links
+851 	com.android.chrome;com.google.android.apps.maps;com.android.mms;com.android.browser;com.android.mms	looking up bus routes to holly 's house messaging her
+852 	com.jrtstudio.music;com.google.android.music	listening to the upsetters
+853 	com.android.chrome;com.android.browser;com.android.chrome	looking up info about the pirates game
+854 	jp.kyocera.camera;com.android.mms	picture messaging scott from the pirates game
+855 	com.android.browser;com.android.chrome	looking up bus info
+856 	com.jrtstudio.music;com.google.android.music;com.jrtstudio.music;com.android.vending;com.google.android.music	listening to the wailers play ad popped up closed it
+857 	com.sec.android.app.camera;com.android.mms;com.sec.android.app.camera;com.android.mms	taking a photo then sending picture message to jason
+858 	com.android.mms;com.timehop;com.android.mms	sending today 's timehop picture to ryan
+859 	com.alexisblaze.japanese_grammar;com.android.vending;com.alexisblaze.japanese_grammar	install learning japanese app
+860 	com.android.calendar;com.android.mms;com.android.calendar	checking calendar regarding evening practice messaging friend that i can not make it editing practice off of the calendar
+861 	com.facebook.orca;com.android.chrome;com.facebook.orca	received message from friend asking for a ride used chrome to check when the next bus back home would be messaged her back to respond about the ride
+862 	com.sec.android.app.popupcalculator;com.Splitwise.SplitwiseMobile	using calculator to see how much money leftover from paycheck for bills checking splitwise to see what bills are posted
+863 	com.facebook.katana;com.amazon.mShop.android	checking facebook notifications about needing to buy a can opener and then looking up the item to purchase on amazon
+864 	com.facebook.katana;com.sec.android.app.clockpackage	checking rowing practice time on facebook updating alarm clock for next morning
+865 	com.softek.ofxclmobile.nasa;com.pnc.ecommerce.mobile.vw.android;com.venmo;com.Splitwise.SplitwiseMobile;com.android.mms;com.softek.ofxclmobile.nasa;com.android.mms;com.android.chrome	gas bill due next week . checking nasa federal credit union and pnc bank accounts for funds . checking splitwise to see which housemates have paid or not . messaging housemates who have not yet paid .
+866 	com.android.mms;com.android.calendar;com.android.mms;com.android.calendar	checking calendar for appointment time messaging a friend that time editing calendar messaging friend calendar edit
+867 	com.android.chrome;com.facebook.orca	checking bus arrival time on chrome messaging friend when i will be home
+868 	com.android.settings;com.spotify.music	syncing bluetooth to speaker playing music via spotify over the speaker
+869 	com.sec.android.gallery3d;com.sec.android.app.videoplayer;com.sec.android.gallery3d;com.sec.android.app.videoplayer;com.sec.android.gallery3d;com.sec.android.app.videoplayer;com.sec.android.gallery3d	browsing through old photos and videos on my phone
+870 	com.sec.android.app.clockpackage;com.facebook.orca;com.android.mms;com.facebook.katana;com.sec.android.app.clockpackage;com.android.mms	alarm clock went off woke up saw multiple notifications on facebook and text message about practice being cancelled due to cold turned off alarm went back to sleep
+871 	com.facebook.orca;com.pnc.ecommerce.mobile.vw.android;com.softek.ofxclmobile.nasa	messaging housemates about paying me for the gas bill checking nasa federal credit union and pnc bank accounts
+872 	com.google.android.gm;com.facebook.orca	got an e-mail about my class being cancelled messaged housemates to say i could go to breakfast with them friday morning
+873 	com.facebook.orca;com.tumblr;com.facebook.orca	received a link to tumblr image from friend on facebook chat viewed the image responded to friend on facebook chat
+874 	com.google.android.gm;cmu.troy.androidlogger;com.google.android.gm;cmu.troy.androidlogger	received e-mail reminder to send logs sent logs
+875 	com.instagram.android;com.google.android.youtube;com.instagram.android;com.android.contacts;com.instagram.android;com.android.chrome;com.facebook.katana	trying to figure out when oneup closes
+876 	com.snapchat.android;com.instagram.android	wasting time
+877 	com.google.android.youtube;com.clearchannel.iheartradio.controller	listening to classic rock
+878 	com.android.mms;com.facebook.katana;com.android.mms	messaging chul kyo
+879 	com.snapchat.android;com.android.mms	getting in touch with steve
+880 	com.snapchat.android;com.android.mms;outgoing_call;com.android.phone	calling zonca
+881 	com.snapchat.android;com.android.mms	messaging asher
+882 	com.instagram.android;com.snapchat.android	looking at pictures and wasting time
+883 	com.instagram.android;com.android.chrome;com.android.mms;com.snapchat.android;com.android.mms	wasting massive amounts of time
+884 	com.sec.android.app.clockpackage;com.android.mms	setting an alarm
+885 	com.android.mms;outgoing_call;com.android.phone;com.android.mms	texting and returning brooke 's call
+886 	com.google.android.apps.maps;com.android.vending	going to pitcher park
+887 	com.google.android.youtube;com.android.chrome;com.google.android.youtube	playing trap queen on youtube
+888 	com.android.chrome;com.android.providers.downloads.ui;com.android.chrome;com.android.settings;com.android.chrome	downloading files from the interwebs
+889 	com.android.chrome;com.google.android.youtube	listening to mr brightside
+890 	com.shazam.android;com.google.android.youtube	listening to uneasy rider
+891 	cmu.troy.androidlogger;com.google.android.gm	sending logs and emailing ming
+892 	com.facebook.katana;com.facebook.orca;com.facebook.katana	making dinner plans with johnny on facebook .
+893 	com.android.chrome;com.lge.QuickClip;com.lge.app.richnote	looking up directions to west end health center and saving the directions to a memo .
+894 	com.android.mms;com.android.contacts;com.android.mms;com.android.contacts;com.facebook.katana;com.android.mms;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.android.mms;com.facebook.katana;com.android.contacts;com.android.mms;com.android.contacts;com.android.mms;com.facebook.katana;com.pof.android;com.groupon;com.android.calendar;com.android.mms;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.android.chrome;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.lge.camera;com.android.gallery3d;com.facebook.katana;com.android.mms;com.lge.email;com.android.chrome;com.groupon;com.android.mms;com.groupon;com.android.chrome;com.lge.email;com.facebook.katana;com.android.mms;com.android.mms	taking pictures of new car and posting them to facebook while messaging friend kat and looking up prices for car detailers .
+895 	net.slickdeals.android;com.android.chrome	clicked on item ( ram )
+896 	com.facebook.katana;net.slickdeals.android	checking facebook and shopping
+897 	net.slickdeals.android;com.google.android.gm	shopping and checking email
+898 	cmu.troy.androidlogger;com.google.android.gm;com.android.chrome	filling out doodle poll
+899 	com.android.chrome;com.lge.email	checking my yahoo email
+900 	com.lge.email;com.android.chrome	checking my yahoo email
+901 	com.lge.email;com.android.chrome	checking my yahoo email
+902 	com.android.chrome;com.lge.email	checking my yahoo email
+903 	com.android.chrome;com.lge.email;com.android.chrome;com.android.chrome;com.lge.email	checking my yahoo e-mail
+904 	com.google.android.gm;com.android.chrome	checking my g-mail account
+905 	com.lge.email;com.android.chrome	checking my yahoo e-mail
+906 	com.lge.email;com.android.chrome	checking my yahoo e-mail
+907 	com.android.chrome;cmu.troy.androidlogger	sending in log and checking e-mail
+908 	com.android.chrome;com.android.calculator2;com.android.chrome	online pnc account and calculate balance
+909 	com.lge.camera;com.kakao.talk;com.lge.camera;com.kakao.talk;com.android.gallery3d;com.kakao.talk	take a photo of my homework solution to send to a friend
+910 	com.android.gallery3d;com.kakao.talk;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.kakao.talk;com.android.gallery3d;com.android.gallery3d;com.android.gallery3d	exchanging photos with a friend via kakaotalk and checking the photos in album after downloading them
+911 	com.lge.email;com.infraware.polarisoffice;com.lge.email;com.infraware.polarisoffice	checking email about an interview and opening the attached document
+912 	com.android.gallery3d;com.lge.email	choosing a photo of myself to put on my new student id
+913 	com.kakao.talk;com.accuweather.android;com.kakao.talk;com.accuweather.android;com.kakao.talk	talking about the weather with a friend
+914 	com.lge.email;com.android.chrome;com.lge.email	read email about an assignment due tomorrow and go to blackboard to read further about the assignment
+915 	com.lge.music;com.android.settings;com.lge.music	played music ( shuffle ) after connecting phone to my bluetooth speaker
+916 	com.accuweather.android;com.kakao.talk	checked tomorrow 's weather and talked about it with a friend
+917 	jp.co.johospace.jorte;com.kakao.talk;com.android.chrome;com.kakao.talk;com.android.chrome;com.android.gallery3d;com.android.chrome;com.kakao.talk;jp.co.johospace.jorte;com.kakao.talk;com.android.chrome;jp.co.johospace.jorte;com.android.chrome;com.kakao.talk;com.android.chrome	checked calendar for any homeworks due next week for the course 'process contro ' texted sophie about it and went on blackboard to see what the homework is and saw that the group members for the grou p project has been finalized took a screenshot and sent it to sophie and set up a group meeting time and marked it on calendar
+918 	com.lge.email;com.android.chrome;com.android.chrome;com.android.chrome;com.android.chrome	got an email about poster presentation googled for more information on it and to set up time
+919 	com.android.gallery3d;com.kakao.talk	sending a photo to my sister
+920 	com.android.chrome;com.google.android.apps.maps	looking up nearest ups stores and looking up the closest one using google maps
+921 	com.lge.voicecommand;com.lge.voicecommand;com.kakao.talk;com.kakao.talk	opened by accident
+922 	com.google.android.gm;com.android.chrome;com.airbnb.android	checking gmail for my airbnb password go to airbnb online then on app
+923 	com.whatsapp;com.facebook.katana	daily morning routine to check social media
+924 	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.calendar	scheduling lacs session
+925 	cmu.troy.androidlogger;com.google.android.gm;cmu.troy.androidlogger	sending logs through gmail
+926 	com.android.email;com.google.android.gm;com.android.email	checking email notifications
+927 	com.google.android.gm;com.android.chrome;com.google.android.gm	opening links in the email in chrome
+928 	com.google.android.gm;com.android.chrome;com.google.android.gm	opening links in the email in chrome
+929 	com.facebook.katana;com.android.chrome;com.facebook.katana	checking facebook open links in chrome
+930 	com.google.android.gm;com.android.chrome	checking email and opening links on chrome
+931 	com.android.mms;incoming.call;incoming.call;call_begin;call_begin;com.android.phone;com.android.mms;com.google.android.apps.maps	received address from akanksha to collect items from jhu campus
+932 	gbis.gbandroid;com.google.android.apps.maps;gbis.gbandroid;com.mapquest.android.ace;gbis.gbandroid;com.mapquest.android.ace	trying to find a gas station
+933 	com.google.android.apps.maps;com.mapquest.android.ace	navigating back home from baltimore
+934 	com.vlingo.midas;com.android.mms;com.vlingo.midas;com.google.android.apps.maps;com.vlingo.midas;com.google.android.apps.maps	used voice app to send text to david that we were on our way to get key used voice app to navigate to his house reused voice app since it navigated wrong the first time .
+935 	com.vlingo.midas;com.google.android.apps.maps	decided not to go to davids and to drop corrine off at the dance as it was so late . used voice app to redirect to cmu most efficiently .
+936 	com.vlingo.midas;com.google.android.apps.maps;com.vlingo.midas	used voice app to navigate to 2710 tilbury street
+937 	com.android.incallui;com.vlingo.midas;com.google.android.apps.maps	used voice app to navigate home from smithfield pa
+938 	com.vlingo.midas;com.google.android.apps.maps	phoned melissa on her cell to let her know i was on the way
+939 	com.vlingo.midas;com.google.android.apps.maps	used voice app to navigate to 124 laura st. in smithfield pa
+940 	com.vlingo.midas;outgoing_call;com.android.incallui	returned call to mom now that i was off the highway and could pull over .
+941 	com.vlingo.midas;com.google.android.apps.maps	used voice app to change navigation route to work .
+942 	com.android.incallui;com.google.android.apps.maps	received call from mom
+943 	com.vlingo.midas;com.google.android.apps.maps;com.vlingo.midas;outgoing_call;com.android.incallui;com.vlingo.midas	use voice app to navigate from bates st. to carnegie mellon to determine fastest route used voice app to call joe on his mobile to see if he was coming to the dance
+944 	com.android.contacts;com.tmobile.vvm.application;com.android.email	tried to use voice app to open email . did n't work
+945 	com.android.settings;com.sec.tetheringprovision;com.android.settings	opened up mobile hot spot for internet access for study appointment
+946 	com.google.android.apps.maps;com.vlingo.midas;outgoing_call;com.android.phone;com.android.incallui;com.vlingo.midas;com.google.android.apps.maps	used voice app to navigate to sarah jackson black community center for the dance and used voice app to phone home to see if alex was coming to the dance .
+947 	com.facebook.katana;com.android.deskclock;com.google.android.gm;com.jrdcom.weather	snoozed alarm clock and checked notifications and weather for the day
+948 	com.android.gallery3d;com.instagram.android	posting a picture to instagram
+949 	com.facebook.katana;com.android.chrome	clicking a link on facebook
+950 	com.whatsapp;com.android.vending;com.skype.raider;com.android.settings;com.whatsapp;com.android.vending	clicked on whatsapp to see it was out of date and had to delete skype to make room for updated version
+951 	com.whatsapp;com.whatsapp;com.android.dialer;com.whatsapp	messaged harshit via whatsapp and received phone call from him
+952 	com.android.dialer;com.android.dialer;outgoing_call;com.android.mms;com.android.mms	called tiffany back and messaged ashley about phone call
+953 	com.facebook.katana;com.google.android.youtube	referencing youtube video to create satirical facebook status
+954 	com.google.android.gm;com.android.mms;com.google.android.gm;com.facebook.katana	checking morning notifications
+955 	com.android.gallery3d;com.whatsapp	sending a picture via whatsapp
+956 	com.sec.android.app.camera;com.android.mms	took picture of computer screen ; texted to krista
+957 	com.sec.android.app.camera;com.android.mms	took a pic of cat ; texted to krista
+958 	com.android.contacts;com.snrblabs.grooveip	opened android phone to make call closed and voice over ip app instead to cancel car appt .
+959 	com.android.mms;com.sec.android.app.camera	received text from krista responded with photo text
+960 	com.sec.android.app.camera;com.android.mms	took picture of error screen in oracle ; texted picture to kelly and krista
+961 	com.facebook.katana;com.android.chrome	opening up a link from facebook
+962 	com.facebook.katana;com.android.chrome;com.matrix.emergency.lite	opening up an emergency preparedness article on facebok and then updating emergency contacts list
+963 	com.android.chrome;com.facebook.katana	reading about emergency help related phone applications
+964 	com.facebook.katana;com.android.chrome;com.matrix.emergency.lite;com.matrix.emergency.lite	reading articles on emergency preparedness and checking emergency help application
+965 	kr.core.technology.wifi.hotspot;com.pdanet	attempting to set up an internet connection
+966 	com.android.settings;com.pdanet;com.android.settings	trying to set up an wifi connection again
+967 	com.android.chrome;com.mobisystems.office;com.adobe.reader	checking on college homework
+968 	com.facebook.katana;com.android.chrome	opening up link from facebook group
+969 	com.android.chrome;com.facebook.katana	opening up link
+970 	com.android.contacts;com.google.android.gm	responding to ming about the unsent logs
+971 	com.android.mms;com.android.contacts;outgoing_call;com.android.incallui;com.android.contacts;com.android.mms	called rose my neighbor to keep a watch on my kids and texting kids
+972 	outgoing_call;com.android.mms	called neighbor ( rose ) and texted her to let her know i was about to pickup my children
+973 	com.infraware.polarisoffice5;com.android.chrome	reading my homework assignments from blackboard website opened in chrome
+974 	com.google.android.gm;com.facebook.katana;com.google.android.deskclock;com.google.android.gm;com.facebook.katana;com.google.android.gm;com.facebook.katana	checking gmail and fb for any updates upon waking up
+975 	com.android.contacts;com.android.mms	texting wife ( joelle )
+976 	com.android.chrome;com.google.android.apps.docs;com.google.android.gm	looking up information in google docs based web contact form
+977 	com.facebook.katana;com.facebook.orca;com.facebook.katana	messaging friend ( todd ) on facebook chat
+978 	com.android.mms;com.android.documentsui;com.google.android.gm;com.android.mms	texting wife ( joelle ) looking up document in google drive and checking email all regarding upcoming phone interview
+979 	com.facebook.orca;com.facebook.katana	incoming chat from student at work
+980 	com.google.android.gm;com.android.chrome;com.facebook.katana;com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.android.chrome	searching for information on new campus at one bright ray community high school in philadelphia
+981 	com.motorola.camera;com.motorola.MotGallery2	taking and viewing work related pictures
+982 	com.android.contacts;com.android.mms	texting friend ( todd )
+983 	com.google.android.gm;com.motorola.MotGallery2;com.motorola.camera;com.motorola.MotGallery2;com.motorola.camera;com.motorola.MotGallery2	reading historical article regarding us civil war and taking screenshots of documents to find later
+984 	com.google.android.gm;com.android.mms;com.google.android.gm;com.google.android.apps.maps;com.google.android.gm;com.android.mms;com.google.android.gm	texting wife ( joelle ) regarding contents of an email i had received also using maps to look up information pertinent to the conversation ( location of church farm school in exton pa )
+985 	com.google.android.gm;com.android.mms;com.google.android.gm;com.android.mms	texting wife ( joelle ) regarding contents of email received from prospective employer
+986 	com.google.android.apps.maps;com.amtrak.rider	looking up area around exton train station and following up by exploring amtrak trains that serve that station
+987 	com.motorola.camera;com.motorola.MotGallery2;com.google.android.gm	taking picture of a table i 'm getting rid of and emailing the image to myself in order to create a flyer on my pc
+988 	com.facebook.orca;com.motorola.MotGallery2	saving picture from facebook
+989 	com.todaytix.TodayTix;com.android.chrome;com.android.chrome	looking up show prices on todaytix and reviews of shows which opens in chrome
+990 	com.google.android.apps.maps;com.buspgh.apps.app01	looking up nearest bus stop to the waterfront and then tracking the bus as it approached in real time
+991 	com.facebook.katana;com.motorola.MotGallery2;com.motorola.MotGallery2	save image from facebook into gallery
+992 	com.motorola.MotGallery2;com.facebook.katana	posting picture from gallery onto facebook
+993 	com.facebook.katana;com.facebook.orca;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.facebook.orca	facebook chat with friend ( todd )
+994 	com.facebook.katana;com.facebook.orca;com.facebook.katana;com.facebook.katana;com.facebook.katana;com.facebook.orca;com.facebook.katana;com.facebook.katana;com.facebook.katana	facebook chat with friend ( todd )
+995 	com.android.mms;outgoing_call;com.android.dialer;com.android.mms;com.android.dialer;com.android.mms;com.android.chrome;com.android.mms;com.android.chrome;com.android.mms;com.android.chrome;com.jrtstudio.music;com.android.chrome	calling millie and messaging where to meet at arts festival . browsing festival events
+996 	com.google.android.gm;com.android.browser;com.android.chrome;com.android.mms;com.android.chrome	checking arts festival calendar of events and messaging friends
+997 	org.adblockplus.android;com.android.settings;com.android.chrome	turning off ad block and wi-fi before using browser
+998 	com.android.chrome;org.adblockplus.android;com.android.chrome	toggling adblock while browsing
+999 	com.android.calendar;com.android.chrome	checking calendar tasks for the day browsing info
+1000	com.android.chrome;com.android.browser	browsing arts festival events
+1001	outgoing_call;com.android.dialer;com.android.mms;outgoing_call;com.android.dialer;com.android.mms	calling and texting with lori to see where she is
+1002	com.google.android.gm;com.android.browser	checking calendar of events linked from gmail
+1003	com.android.mms;com.android.mms;com.android.browser;com.android.chrome;com.android.settings;com.android.chrome;org.adblockplus.android;com.android.browser;com.android.chrome;com.android.dialer;com.android.chrome;com.android.dialer;outgoing_call;com.android.mms	texting with and calling millie to talk about arts festival checking calendar of events
+1004	com.google.android.gms;com.android.settings;com.android.chrome	checking mail toggling wifi browsing sites
+1005	com.android.cellbroadcastreceiver;com.android.chrome	received flood warning looking up weather
+1006	com.google.android.gm;com.android.browser;com.android.calendar;com.android.chrome;com.android.browser;com.android.calendar;com.android.chrome	checking mail adding events from gmail to calendar . clicking on link from email to browser .
+1007	com.android.settings;com.google.android.gm	turning off wi-fi ( out of range ) checking gmail
+1008	jp.kyocera.camera;com.android.gallery3d;com.android.mms;jp.kyocera.camera;com.android.mms;com.android.chrome;jp.kyocera.camera;com.android.mms;com.android.mms;jp.kyocera.camera;com.android.chrome	taking pictures of racoon in yard and sending them to scott . looking up how to get raccoons away from yard in browser .
+1009	com.android.chrome;com.android.browser	browsing sites did n't work in chrome checked browser
+1010	com.android.contacts;com.android.chrome;com.android.chrome	emailing scott a friend 's phone number
+1011	com.android.browser;com.android.chrome	switching between browsers
+1012	com.android.browser;com.android.chrome;com.android.browser;com.google.android.gm;com.android.browser	browsing sites checking email and clicking link off email
+1013	com.android.chrome;com.android.browser	switching between browsers
+1014	com.google.android.gm;com.android.chrome	clicked link for ebay auction
+1015	com.google.android.gm;com.android.browser;com.google.android.gm;com.android.browser	checking mail and bulletin board links
+1016	com.android.calendar;cmu.troy.androidlogger	calendar reminder for logs
+1017	com.android.browser;com.google.android.youtube	watching dog video linked from site
+1018	com.jrtstudio.music;com.google.android.music	listening to ska mix on one app switched to jazz mix on other app so i did n't lose my spot
+1019	com.android.chrome;com.android.settings;com.android.chrome	turned on/off wifi for browser
+1020	com.android.browser;com.android.chrome	toggling between browsers
+1021	com.android.browser;com.android.chrome;com.android.browser	switching between browsers
+1022	com.android.browser;com.android.chrome;com.android.chrome;com.android.chrome;com.google.android.gm;com.android.chrome	looking up ebay auctions/getting emails from ebay
+1023	com.android.calendar;cmu.troy.androidlogger	calendar reminder for logs
+1024	com.android.settings;com.android.mms;com.android.mms;com.android.settings;com.android.mms	turned off wifi so i could receive picture message turned it on again
+1025	com.google.android.gm;com.google.android.gm;com.google.android.gm;com.android.chrome	checking mail and bulletin board links
+1026	com.android.settings;org.adblockplus.android;com.android.settings;com.android.browser;com.android.chrome	having issues browsing toggled wifi toggled ad block toggled browsers
+1027	com.android.chrome;org.adblockplus.android;com.android.browser;com.android.chrome	having issues loading sites toggled settings
+1028	com.google.android.gm;com.android.chrome	browsing sites toggling between browsers
+1029	com.android.browser;com.google.android.apps.maps;com.android.browser	browsing library hours for oakland looking up directions
+1030	jp.kyocera.camera;com.android.mms	sending scott a picture of plants
+1031	com.android.browser;com.android.chrome	looking up info on two tone records
+1032	com.google.android.gm;com.android.chrome	toggling browsers
+1033	com.google.android.gm;com.android.chrome	opening link from nextdoor email
+1034	com.android.browser;com.android.chrome;com.android.browser	toggling between browsers
+1035	com.google.android.apps.docs;com.android.browser;com.android.chrome;com.android.browser	opening cabinet instructions looking up more instructions
+1036	com.android.mms;com.android.calendar;com.android.mms	texting scott my schedule
+1037	com.jrtstudio.music;com.android.browser	listening to upsetters looking up info about them
+1038	com.google.android.apps.maps;com.android.chrome	getting navigation to the strip district looking up info
+1039	com.android.chrome;com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome	browsing sites toggling between browsers
+1040	com.google.android.gm;com.android.chrome;com.android.browser	reading mail clicking link for nextdoor message board
+1041	com.nextradioapp.nextradio;com.android.vending	app opened without my consent
+1042	jp.kyocera.camera;com.android.gallery3d;com.google.android.gm	pictures from scott 's band playing emailed them to band
+1043	com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome;com.google.android.gm;com.android.chrome;com.android.chrome	looking up recipes for dinner
+1044	org.adblockplus.android;com.android.browser	toggled adblock having browser issues
+1045	com.android.mms;com.android.browser	clicking on site that holly sent me
+1046	com.android.browser;com.android.chrome;com.android.dialer;com.android.chrome;com.android.dialer;outgoing_call;com.android.phone;com.android.dialer	looking up info on trader joe 's . called to ask if they had an item .
+1047	jp.kyocera.camera;com.google.android.gm	sent nikki a picture she wanted
+1048	com.android.calendar;cmu.troy.androidlogger;com.android.calendar	checked off reminder for logs
+1049	com.android.browser;com.android.chrome	browsing sites
+1050	jp.kyocera.camera;com.android.gallery3d;com.google.android.gm	sending scott pictures
+1051	com.google.android.apps.maps;com.android.browser;com.android.dialer	looked up reyna foods in the strip dialer was brought up but store was closed
+1052	com.coremobility.app.vnotes;com.android.dialer;com.android.contacts;com.android.contacts;com.android.dialer;com.android.mms	neighbor karen left voicemail that she got a package for us . texted scott about package .
+1053	com.android.browser;com.android.chrome;com.android.mms;com.android.chrome	looking up book info for scott and texting him
+1054	com.google.android.gm;com.android.chrome	opened survey link from gmail
+1055	com.android.contacts;com.android.chrome;com.google.android.apps.maps;com.android.chrome	called to make appointment at upmc . got maps directions to upmc shadyside after looking it up on browser . googled bus schedule .
+1056	com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps;com.android.chrome	looked up navigation to pwsa ( water company ) and what buses go there
+1057	com.google.android.apps.maps;com.android.chrome	looked up how to get back from pwsa
+1058	com.google.android.gm;com.android.chrome;com.android.chrome;com.google.android.apps.maps;com.android.chrome;com.google.android.apps.maps	looked up address and navigation for peppi 's in the north side and looked at their website
+1059	com.jrtstudio.music;com.android.chrome;com.jrtstudio.music;com.android.chrome	looking up peppi 's website listening to meat puppets
+1060	com.android.chrome;com.google.android.apps.docs;com.android.chrome	downloading word document from furniture instructions
+1061	com.android.browser;com.android.chrome	browser not responsive switched to chrome
+1062	com.android.browser;com.android.chrome	browser not responsive switched to chrome
+1063	com.android.mms;com.android.chrome	texting scott that i was on the way looking up bus schedule
+1064	com.google.android.apps.maps;com.android.chrome	getting navigation from cmu to pwsa
+1065	com.android.chrome;com.android.settings;com.android.chrome	toggling wifi on/off to browse sites
+1066	com.google.android.gm;com.android.chrome	clicking link from email
+1067	com.android.mms;jp.kyocera.camera;com.android.mms	taking picture for picture message
+1068	com.google.android.gm;com.android.chrome	clicking link from email
+1069	com.android.browser;com.android.chrome	browser unresponsive switching
+1070	com.android.browser;com.android.chrome	switching browsers
+1071	com.google.android.gm;com.android.chrome	clicking link from gmail
+1072	com.android.chrome;com.google.android.apps.docs;com.android.chrome	downloading pdf from site to docs
+1073	com.android.chrome;com.android.settings;com.android.chrome;com.android.chrome	browsing sites toggling wifi on/off
+1074	jp.kyocera.camera;com.android.settings;com.android.mms	taking picture turning off wifi so i can send it attaching it to picture message
+1075	com.android.calendar;cmu.troy.androidlogger	reminder to send you logs
+1076	com.google.android.gm;com.android.chrome	opening gmail link in browser
+1077	com.android.browser;com.android.chrome	switching browsers
+1078	com.trustgo.addetector;com.android.chrome	toggling adblock browsing sites
+1079	com.google.android.gm;com.android.chrome;com.google.android.gm	checking mail clicking link off email
+1080	com.fitbit.FitbitMobile;com.android.settings;com.fitbit.FitbitMobile;com.android.settings;com.fitbit.FitbitMobile;com.fitbit.FitbitMobile	turning on/off bluetooth to sync fitbit using app
+1081	com.bodybuilding.mobile;com.sec.android.app.videoplayer;com.bodybuilding.mobile;com.sec.android.app.videoplayer;com.bodybuilding.mobile;com.sec.android.app.videoplayer	looking up work outs then watching videos on how to do them
+1082	com.android.mms;com.itgc.dreammoods.ui;com.android.mms	texting leslie then sending her dream interpretation using app
+1083	com.bodybuilding.mobile;com.sec.android.app.videoplayer;com.bodybuilding.mobile;com.sec.android.app.videoplayer;com.bodybuilding.mobile;com.sec.android.app.videoplayer;com.bodybuilding.mobile;com.sec.android.app.videoplayer	looking up work outs then watching videos on how to do them
+1084	com.sec.android.mimage.photoretouching;com.sec.android.gallery3d	cropping photo taken on phone
+1085	com.android.incallui;com.android.mms	missed call from grandma then sent a text to her
+1086	com.amazon.mShop.android;com.amazon.kindle	buying and downloading a book in kindle
+1087	com.google.android.gm;com.android.chrome;com.android.vending	reading gmail message instructing me to download an app then going to app store to downlaod
+1088	com.textra;com.motorola.camera;com.motorola.MotGallery2;com.textra	took a picture and texted it to my landlord
+1089	com.motorola.camera;com.motorola.MotGallery2;com.motorola.camera;com.motorola.MotGallery2;com.motorola.camera;com.motorola.MotGallery2;com.textra;com.motorola.MotGallery2;com.textra	took photo looked at it in the gallery and then texted it to my landlord
