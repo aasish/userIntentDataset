@@ -1,18 +1,11 @@
 # User Intent Prediction Datset
-The goal is to let intelligent agents interpret and learn high-level user intents which span multiple mobile apps, e.g., to plan a dinner we may need to use Yelp, Maps, SMS, etc.
+The goal is to let intelligent agents interpret and learn high-level user intents which span multiple mobile apps, e.g., to plan a dinner we may need to use Yelp -> Maps -> SMS, etc.
 
 # Contents
 
-## App Descriptions provided by Google Play
-
-## Constructed Graphs
-
-## Graph Labeling Output
-
-## Embedding Vectors
-
-## Seed Cluster Distribution
-
+## App2Vec
+There are several ways to train app embeddings.
+You can use doc2vec on app descriptions to project each app into a semantic space. Alternatively, you can collect stream of app invocations from people's smart phones and treat it as a corpus of words and apply word2vec.
 
 ## App Sequence Data
 In sequence_labeling directory you will find following:
