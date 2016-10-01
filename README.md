@@ -24,7 +24,7 @@ Ming Sun, Yun-Nung Chen, Zhenhao Hua, Yulian Tamres-Rudnicky, Arnab Dash, and Al
 ### Citation
 Please cite following work if you use this dataset in your research work. 
 ```
-@ARTICLE {,
+@ARTICLE {sunSLT2016,
     author  = "Ming Sun, Aasish Pappu, Yun-Nung Chen, Alexander I Rudnicky",
     title   = "Weakly Supervised User Intent Detection for Multi-Domain Dialogues",
     journal = "IEEE Workshop on Spoken Language Technology",
