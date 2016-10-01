@@ -21,11 +21,18 @@ In sequence_labeling directory you will find following:
 Feel free to use this dataset. Please consider citing our papers:
 ### Data Collection
 Ming Sun, Yun-Nung Chen, Zhenhao Hua, Yulian Tamres-Rudnicky, Arnab Dash, and Alexander I. Rudnicky, "AppDialogue: Multi-App Dialogues for Intelligent Assistants," in Proceedings of The 10th International Conference on Language Resources and Evaluation (LREC), 2016.
-### Application
-Ming Sun, Aasish Pappu, Yun-Nung Chen and Alexander I. Rudnicky, "Weakly Supervised User Intent Detection for Multi-Domain Dialogues," in Proceedings of IEEE Workshop on Spoken Language Technology, 2016 (in press).
+### Citation
+Please cite following work if you use this dataset in your research work. 
+```
+@ARTICLE {,
+    author  = "Ming Sun, Aasish Pappu, Yun-Nung Chen, Alexander I Rudnicky",
+    title   = "Weakly Supervised User Intent Detection for Multi-Domain Dialogues",
+    journal = "IEEE Workshop on Spoken Language Technology",
+    year    = "2016"
+}
+```
 
-You can find other research work on this dataset here: http://appdialogue.com/
-You can also find a video demo here: https://youtu.be/FvQto8pP1OU
+You can find a video demo here: https://youtu.be/FvQto8pP1OU
 
 # License
 Creative Commons License 1.0 
