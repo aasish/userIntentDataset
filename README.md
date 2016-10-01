@@ -18,9 +18,7 @@ In sequence_labeling directory you will find following:
 2. Clean app sequences (apps irrelevant to the intents removed) with user intents annotated by participants (`R2.csv`);
 3. Speech commands (both manual transcripts and Google ASR 1-best hypotheses) at app level to re-enact part of intents in 2 (`R3.csv`).
 
-Feel free to use this dataset. Please consider citing our papers:
-### Data Collection
-Ming Sun, Yun-Nung Chen, Zhenhao Hua, Yulian Tamres-Rudnicky, Arnab Dash, and Alexander I. Rudnicky, "AppDialogue: Multi-App Dialogues for Intelligent Assistants," in Proceedings of The 10th International Conference on Language Resources and Evaluation (LREC), 2016.
+
 ### Citation
 Please cite following work if you use this dataset in your research work. 
 ```
