@@ -22,11 +22,12 @@ In sequence_labeling directory you will find following:
 ### Citation
 Please cite following work if you use this dataset in your research work. 
 ```
-@ARTICLE {sunSLT2016,
-    author  = "Ming Sun, Aasish Pappu, Yun-Nung Chen, Alexander I Rudnicky",
-    title   = "Weakly Supervised User Intent Detection for Multi-Domain Dialogues",
-    journal = "IEEE Workshop on Spoken Language Technology",
-    year    = "2016"
+@CONFERENCE {sunSLT2016,
+    author    = "Ming Sun, Aasish Pappu, Yun-Nung Chen, Alexander I Rudnicky",
+    title     = "Weakly Supervised User Intent Detection for Multi-Domain Dialogues",
+    booktitle = "IEEE Workshop on Spoken Language Technology",
+    year      = "2016",
+    publisher = "IEEE"
 }
 ```
 
